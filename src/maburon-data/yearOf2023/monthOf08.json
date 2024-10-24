@@ -1,0 +1,97 @@
+{
+    "month": "8",
+    "podcastUrl": "https://open.spotify.com/embed/episode/4clbHipVBJvxUI7r6qdeiQ?si=bdd741a7b8d743e3?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/0H8Dz98I5di6SDqZndykb7?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Summer Glitter",
+            "artist": "私立恵比寿中学",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "私立恵比寿中学",
+                    "twitter_url": "https://x.com/ebichu_staff",
+                    "instagram_url": "https://www.instagram.com/shiritsuebisuchugaku/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "ル・ルーラは愛の言葉",
+            "artist": "Negicco",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Negicco",
+                    "twitter_url": "https://x.com/Negicco_Info",
+                    "instagram_url": "https://www.instagram.com/negicco_official/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "Mind's Eye",
+            "artist": "HALLCA",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "HALLCA",
+                    "twitter_url": "https://x.com/hallca__jp",
+                    "instagram_url": "https://www.instagram.com/hallca__jp/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "Trouble Maker",
+            "artist": "FANCYLABO,Night Tempo",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "FANCYLABO",
+                    "twitter_url": "https://x.com/fancylabo",
+                    "instagram_url": "https://www.instagram.com/fancylabo/"
+                },
+                {
+                    "artist_name": "Night Tempo",
+                    "twitter_url": "https://x.com/nighttempo",
+                    "instagram_url": "https://www.instagram.com/nighttempo"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "Red-Stella",
+            "artist": "太陽と踊れ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "太陽と踊れ",
+                    "twitter_url": "https://x.com/taiyototsukiyo",
+                    "instagram_url": "https://www.instagram.com/taiyototsukiyo/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "サンバーント・ロマンス",
+            "artist": "フィロソフィーのダンス",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "フィロソフィーのダンス",
+                    "twitter_url": "https://x.com/DFP_2015",
+                    "instagram_url": "https://www.instagram.com/dance_for_philosophy/"
+                }
+            ]
+        }
+    ]
+}

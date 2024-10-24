@@ -1,0 +1,72 @@
+{
+    "month": "5",
+    "podcastUrl": "https://open.spotify.com/embed/episode/0zZEJbGuophF6XHViydNZR?si=fb7b50d8f9784ca9?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/2ibSUnC4H9LVv8D6HuA1nz?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "スペシャル・ルーティン",
+            "artist": "フィロソフィーのダンス",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "フィロソフィーのダンス",
+                    "twitter_url": "https://x.com/DFP_2015",
+                    "instagram_url": "https://www.instagram.com/dance_for_philosophy/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Sweetest Revolution",
+            "artist": "CIRGO GRINCO",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": []
+        },
+        {
+            "number": 3,
+            "track_name": "passion",
+            "artist": "usabeni",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "usabeni",
+                    "twitter_url": "https://x.com/usakura_beni",
+                    "instagram_url": "https://www.instagram.com/usabeni_/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "ユメミテル",
+            "artist": "lyrical school",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "lyrical school",
+                    "twitter_url": "https://x.com/lyri_sch",
+                    "instagram_url": "https://www.instagram.com/lyricalschool/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "愛すべきべき Human Life",
+            "artist": "アンジュルム",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "アンジュルム",
+                    "twitter_url": "https://x.com/angerme_upfront",
+                    "instagram_url": "https://www.instagram.com/angerme_official/"
+                }
+            ]
+        }
+    ]
+}

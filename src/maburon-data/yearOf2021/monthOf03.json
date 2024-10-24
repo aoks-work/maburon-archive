@@ -1,0 +1,83 @@
+{
+    "month": "3",
+    "podcastUrl": "https://open.spotify.com/embed/episode/1yoOdEyZdLLvkOWTJw6Ee0?si=3c65b720d3024a50?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/1nRCBW06OvYRwrvtW4No4Z?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "賃​貸​ほ​ー​む​れ​す​feat​.​カ​ナ​ス​タ",
+            "artist": "佐々木喫茶,カ​ナ​ス​タ",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "佐々木喫茶",
+                    "twitter_url": "https://x.com/sasakikissa",
+                    "instagram_url": ""
+                },
+                {
+                    "artist_name": "カ​ナ​ス​タ",
+                    "twitter_url": "",
+                    "instagram_url": "https://www.instagram.com/kanastaworld/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "恋愛保険",
+            "artist": "桐原ユリ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "桐原ユリ",
+                    "twitter_url": "https://x.com/yuirintaka",
+                    "instagram_url": "https://www.instagram.com/uuumanbo/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "neon",
+            "artist": "ん・フェニ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ん・フェニ",
+                    "twitter_url": "https://x.com/n__feni",
+                    "instagram_url": "https://www.instagram.com/n__feni/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "幻影東京",
+            "artist": "終わらないで、夜",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "終わらないで、夜",
+                    "twitter_url": "https://x.com/owaranaide_yoru",
+                    "instagram_url": "https://www.instagram.com/owaranaide_yoru/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "二年前の横浜駅西口",
+            "artist": "CHICA#TETSU",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "CHICA#TETSU",
+                    "twitter_url": "https://x.com/BEYOOOOONDS_",
+                    "instagram_url": "https://www.instagram.com/beyooooonds_official/"
+                }
+            ]
+        }
+    ]
+}

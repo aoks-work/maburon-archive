@@ -1,0 +1,92 @@
+{
+    "month": "7",
+    "podcastUrl": "https://open.spotify.com/embed/episode/0VW9kltAVMzw2vXhnqPoty?si=c87ed81ad92742f0?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/1gC4Ul0VucLxivQ6lGduzg?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "C級noロマンティック",
+            "artist": "文坂なの",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "文坂なの",
+                    "twitter_url": "https://x.com/ayasaka_nano",
+                    "instagram_url": "https://www.instagram.com/ayasaka_nano/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Night Driver",
+            "artist": "HALLCA",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "HALLCA",
+                    "twitter_url": "https://x.com/hallca__jp",
+                    "instagram_url": "https://www.instagram.com/hallca__jp/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "惑星ユーフォリア",
+            "artist": "九州女子翼",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "九州女子翼",
+                    "twitter_url": "https://x.com/ITR_KGW",
+                    "instagram_url": "https://www.instagram.com/itr_kgw/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "リサイズ",
+            "artist": "CYNHN",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "CYNHN",
+                    "twitter_url": "https://x.com/CYNHN_DS",
+                    "instagram_url": "https://www.instagram.com/cynhn_ds/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "一富士二鷹三茄子",
+            "artist": "3776",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "3776",
+                    "twitter_url": "https://x.com/minanaro3776",
+                    "instagram_url": "https://www.instagram.com/3776chiyono/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "DRIVE ME CRAZY",
+            "artist": "lyrical school",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "lyrical school",
+                    "twitter_url": "https://x.com/lyri_sch",
+                    "instagram_url": "https://www.instagram.com/lyricalschool/"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "month": "6",
+    "podcastUrl": "https://open.spotify.com/embed/episode/1VpNMsFEjtVyuzjxLb4Pt9?si=0e59cac23c0644dd?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/0CdxW4nzDpeeALw8jrSKab?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Hey!Adamski!",
+            "artist": "lyrical school",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "lyrical school",
+                    "twitter_url": "https://x.com/lyri_sch",
+                    "instagram_url": "https://www.instagram.com/lyricalschool/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Good Night",
+            "artist": "鈴木愛理",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "鈴木愛理",
+                    "twitter_url": "https://x.com/airimania",
+                    "instagram_url": "https://www.instagram.com/airisuzuki_official_uf"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "いつかきかせて",
+            "artist": "Megu",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Megu",
+                    "twitter_url": "https://x.com/Megu_Negicco",
+                    "instagram_url": "https://www.instagram.com/megu_negicco/"
+                }
+            ]
+        }
+    ]
+}

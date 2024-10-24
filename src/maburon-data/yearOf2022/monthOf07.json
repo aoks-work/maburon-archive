@@ -1,0 +1,105 @@
+{
+    "month": "7",
+    "podcastUrl": "https://open.spotify.com/embed/episode/5C7D7kz7W9zHx9dqfBrgSl?si=36a266cb15614e27?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/3yFAHORt1XBDpIxCFrlGJH?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "恋のクラウチングスタート",
+            "artist": "OCHA NORMA",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "OCHA NORMA",
+                    "twitter_url": "https://x.com/ocha_norma",
+                    "instagram_url": "https://www.instagram.com/ocha_norma_official/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "デート前夜狂想曲",
+            "artist": "OCHA NORMA",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "OCHA NORMA",
+                    "twitter_url": "https://x.com/ocha_norma",
+                    "instagram_url": "https://www.instagram.com/ocha_norma_official/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "Viva La 恋心",
+            "artist": "東京女子流",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "東京女子流",
+                    "twitter_url": "https://x.com/TokyoGirlsStyle",
+                    "instagram_url": "https://www.instagram.com/tokyogirlsstyle/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "ジェットコースター",
+            "artist": "femme fatale",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "femme fatale",
+                    "twitter_url": "https://x.com/femme_iDOL",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "FUNKY BIG SLOPE",
+            "artist": "MAINAMIND,Ryozo Band",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MAINAMIND",
+                    "twitter_url": "https://x.com/mainamind24",
+                    "instagram_url": "https://www.instagram.com/mainamind_/"
+                },
+                {
+                    "artist_name": "Ryozo Band",
+                    "twitter_url": "https://x.com/ryo338",
+                    "instagram_url": "https://www.instagram.com/ryozo_obayashi/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "熱波",
+            "artist": "fishbowl",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "fishbowl",
+                    "twitter_url": "https://x.com/fishbowl2021",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "track_name": "染まってゆく",
+            "artist": "FAREWELL, MY D.u.b",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": []
+        }
+    ]
+}

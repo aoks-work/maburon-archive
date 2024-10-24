@@ -1,0 +1,172 @@
+{
+    "month": "5",
+    "podcastUrl": "https://open.spotify.com/embed/episode/7iewFB4kTJsltwR2C9zolJ?si=71340246aa8440ae?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/3083LGh9rVitKCP6Sl7CnU?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "ゆるく　ゆれる",
+            "artist": "Nao☆",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Nao☆",
+                    "twitter_url": "https://x.com/Nao_NGC",
+                    "instagram_url": "https://www.instagram.com/nao_ngc/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Sugar Bomb",
+            "artist": "ME:I",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ME:I",
+                    "twitter_url": "https://x.com/official__ME_I_",
+                    "instagram_url": "https://www.instagram.com/official_me_i_/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "CITY feat. 柳美舞(ばってん少女隊)",
+            "artist": "月刊偶像,柳美舞(ばってん少女隊)",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "月刊偶像",
+                    "twitter_url": "https://x.com/GEKKAN_IDOL",
+                    "instagram_url": ""
+                },
+                {
+                    "artist_name": "柳美舞(ばってん少女隊)",
+                    "twitter_url": "",
+                    "instagram_url": "https://www.instagram.com/yanagi_miyu_official/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "おあいこ",
+            "artist": "Juice=Juice",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Juice=Juice",
+                    "twitter_url": "https://x.com/JuiceJuice_uf",
+                    "instagram_url": "https://www.instagram.com/juice_juice_official/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "Oh!sunshine",
+            "artist": "ジョナゴールド",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ジョナゴールド",
+                    "twitter_url": "https://x.com/JONAGOLD_0323",
+                    "instagram_url": "https://www.instagram.com/jonagold_0323/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "後悔のしるし",
+            "artist": "ジョナゴールド",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ジョナゴールド",
+                    "twitter_url": "https://x.com/JONAGOLD_0323",
+                    "instagram_url": "https://www.instagram.com/jonagold_0323/"
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "track_name": "Fantastic Girl",
+            "artist": "Wink Music Service",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Wink Music Service",
+                    "twitter_url": "",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "track_name": "MAYBLUES",
+            "artist": "楠木ともり",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "楠木ともり",
+                    "twitter_url": "https://x.com/tomori_kusunoki",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "track_name": "Notte",
+            "artist": "MEx2TCHI,ルカタマ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MEx2TCHI",
+                    "twitter_url": "",
+                    "instagram_url": "https://www.instagram.com/mex2tchi/"
+                },
+                {
+                    "artist_name": "ルカタマ",
+                    "twitter_url": "https://x.com/rukatamaki",
+                    "instagram_url": "https://www.instagram.com/rukatamaki/"
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "track_name": "Fallin'",
+            "artist": "lyrical school",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "lyrical school",
+                    "twitter_url": "https://x.com/lyri_sch",
+                    "instagram_url": "https://www.instagram.com/lyricalschool/"
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "track_name": "FIRE SOUL",
+            "artist": "MAINAMIND",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MAINAMIND",
+                    "twitter_url": "https://x.com/mainamind24",
+                    "instagram_url": "https://www.instagram.com/mainamind_/"
+                }
+            ]
+        }
+    ]
+}

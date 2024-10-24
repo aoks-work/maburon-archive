@@ -1,0 +1,92 @@
+{
+    "month": "7",
+    "podcastUrl": "https://open.spotify.com/embed/episode/2k8LjWIGokHflIqf195tVH?si=599312aad4564d3b?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/7xVVS2i3rcsmXht1U8AVrg?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "は勝手に踊りだす",
+            "artist": "さっきの女の子、",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "さっきの女の子、",
+                    "twitter_url": "https://x.com/InfoSakijo",
+                    "instagram_url": "https://www.instagram.com/sakijo_official/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "形而上学的、魔法",
+            "artist": "でんぱ組.inc",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "でんぱ組.inc",
+                    "twitter_url": "https://x.com/dempagumi",
+                    "instagram_url": "https://www.instagram.com/dempagumi.official/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "回路",
+            "artist": "グーグールル",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "グーグールル",
+                    "twitter_url": "https://x.com/ggll_AQBI",
+                    "instagram_url": "https://www.instagram.com/ggll_aqbi/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "Europa",
+            "artist": "LiLii Kaona",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "LiLii Kaona",
+                    "twitter_url": "https://x.com/LiLii_Kaona",
+                    "instagram_url": "https://www.instagram.com/liliikaona_official/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "セミロング",
+            "artist": "開歌-かいか-",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "開歌-かいか-",
+                    "twitter_url": "https://x.com/ca_e_ca",
+                    "instagram_url": "https://www.instagram.com/caeca_0504/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "飛花落葉",
+            "artist": "Kaede",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Kaede",
+                    "twitter_url": "https://x.com/Kaede_NGC",
+                    "instagram_url": "https://www.instagram.com/kaede_ngc/"
+                }
+            ]
+        }
+    ]
+}

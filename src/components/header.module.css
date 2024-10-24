@@ -1,0 +1,39 @@
+.header {
+    display: block;
+  }
+
+.test {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+
+
+nav {
+    
+    display: block;
+    position: relative;
+    text-align: center;
+    
+}
+
+h1 {
+    color: #CC3333;
+    text-align: center;
+    font-size: 60px;
+    
+}
+
+ul {
+    list-style-type: none;
+    width: 100%;
+    margin: 0 auto;
+}
+
+ul li {
+    display: inline;       /* liタグをインライン表示にして横並びにする */
+    margin-right: 20px;
+        /* 各liタグの間に余白を追加（必要に応じて調整） */
+  }

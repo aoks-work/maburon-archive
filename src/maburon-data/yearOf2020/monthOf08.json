@@ -1,0 +1,83 @@
+{
+    "month": "8",
+    "podcastUrl": "https://open.spotify.com/embed/episode/1YAfA0d4UFa6BnukcLjyph?si=8cc67ae80f494c7a?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/2cb7OO8uzMmm5uEANypKMz?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "最高傑作",
+            "artist": "MELLOW MELLOW",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MELLOW MELLOW",
+                    "twitter_url": "https://x.com/mellow03mellow",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "うれしいたのしいさみしいガール",
+            "artist": "佐々木喫茶,戦慄かなの",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "佐々木喫茶",
+                    "twitter_url": "https://x.com/sasakikissa",
+                    "instagram_url": ""
+                },
+                {
+                    "artist_name": "戦慄かなの",
+                    "twitter_url": "https://x.com/FABkanano",
+                    "instagram_url": "https://www.instagram.com/fabkanano/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "魚ごっこ",
+            "artist": "寿々木ここね",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "寿々木ここね",
+                    "twitter_url": "https://x.com/sakasama_kokone",
+                    "instagram_url": "https://www.instagram.com/sakasama_kokone/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "ふたりのサマーデイズ",
+            "artist": "リルネード",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "リルネード",
+                    "twitter_url": "https://x.com/rirunede",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "お家で聴きたいサマードライブ・アンセム",
+            "artist": "hy4_4yh",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "hy4_4yh",
+                    "twitter_url": "https://x.com/hy4_4yh",
+                    "instagram_url": "https://www.instagram.com/hy4_4yh/"
+                }
+            ]
+        }
+    ]
+}

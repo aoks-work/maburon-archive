@@ -1,0 +1,88 @@
+{
+    "month": "4",
+    "podcastUrl": "https://open.spotify.com/embed/episode/7x4673GSvsbsEWiXNinrFU?si=a2f5eb19ec2748fb?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/0gk5RZGZb5TsXzyR3bBH0J?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "フォーリンラブ",
+            "artist": "佐々木喫茶,戦慄かなの",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "佐々木喫茶",
+                    "twitter_url": "https://x.com/sasakikissa",
+                    "instagram_url": ""
+                },
+                {
+                    "artist_name": "戦慄かなの",
+                    "twitter_url": "https://x.com/FABkanano",
+                    "instagram_url": "https://www.instagram.com/fabkanano/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "ベスト☆フレンド",
+            "artist": "Nao☆",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Nao☆",
+                    "twitter_url": "https://x.com/Nao_NGC",
+                    "instagram_url": "https://www.instagram.com/nao_ngc/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "たりらでたりら",
+            "artist": "NaNoMoRaL",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "NaNoMoRaL",
+                    "twitter_url": "https://x.com/NaNoMoRaL_info",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "Magic All Night",
+            "artist": "SANDAL TELEPHONE",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "SANDAL TELEPHONE",
+                    "twitter_url": "https://x.com/sandaltelephone",
+                    "instagram_url": "https://www.instagram.com/sandaltelephone/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "春にゆびきり",
+            "artist": "RYUTist,パソコン音楽クラブ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "RYUTist",
+                    "twitter_url": "https://x.com/RYUTist_info",
+                    "instagram_url": "https://www.instagram.com/ryutist_info/"
+                },
+                {
+                    "artist_name": "パソコン音楽クラブ",
+                    "twitter_url": "https://x.com/pasoconongaku",
+                    "instagram_url": "https://www.instagram.com/pasoconongaku/"
+                }
+            ]
+        }
+    ]
+}

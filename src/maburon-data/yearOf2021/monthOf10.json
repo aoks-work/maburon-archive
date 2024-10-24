@@ -1,0 +1,64 @@
+{
+    "month": "10",
+    "podcastUrl": "https://open.spotify.com/embed/episode/6c2cQf3ApBXHXp2gSsHwsw?si=6820e60ade544429?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/2LYYsjFAL0GuPbBzghgrcG?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "ガールズトーク",
+            "artist": "東京女子流",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "東京女子流",
+                    "twitter_url": "https://x.com/TokyoGirlsStyle",
+                    "instagram_url": "https://www.instagram.com/tokyogirlsstyle/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Late Late Summer",
+            "artist": "桐生ちあり",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "桐生ちあり",
+                    "twitter_url": "https://x.com/kiluyu__",
+                    "instagram_url": "https://www.instagram.com/chiastagram_0906/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "ハネムーン",
+            "artist": "降幡 愛",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "降幡 愛",
+                    "twitter_url": "https://x.com/furihata_ai",
+                    "instagram_url": "https://www.instagram.com/furihatagram/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "Summer Vacation",
+            "artist": "おーるどにゅーすぺーぱー",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "おーるどにゅーすぺーぱー",
+                    "twitter_url": "",
+                    "instagram_url": ""
+                }
+            ]
+        }
+    ]
+}

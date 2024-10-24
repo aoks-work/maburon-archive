@@ -1,0 +1,91 @@
+{
+    "month": "6",
+    "podcastUrl": "https://open.spotify.com/embed/episode/0RvxNo9C3ZrHwcWBeBKk6j?si=5eb7358dd07f43dd?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/2yZ7KTLuITmIN2GiXojKC1?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Sweetest Love Affair",
+            "artist": "MAINAMIND,Ryozo Band",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MAINAMIND",
+                    "twitter_url": "https://x.com/mainamind24",
+                    "instagram_url": "https://www.instagram.com/mainamind_/"
+                },
+                {
+                    "artist_name": "Ryozo Band",
+                    "twitter_url": "https://x.com/ryo338",
+                    "instagram_url": "https://www.instagram.com/ryozo_obayashi/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "WITH THE RAINBOW",
+            "artist": "CIRGO GRINCO",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": []
+        },
+        {
+            "number": 3,
+            "track_name": "ARTIFICIAL GIRL",
+            "artist": "AMEFURASSHI",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "AMEFURASSHI",
+                    "twitter_url": "https://x.com/amefurasshi",
+                    "instagram_url": "https://www.instagram.com/amefurasshi_official"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "TUNED！",
+            "artist": "さよならステイチューン",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "さよならステイチューン",
+                    "twitter_url": "https://x.com/sayostay",
+                    "instagram_url": "https://www.instagram.com/sayostay/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "All Night Fall in Love",
+            "artist": "にゃんぞぬデシ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "にゃんぞぬデシ",
+                    "twitter_url": "https://x.com/nyanzoudeshi",
+                    "instagram_url": "https://www.instagram.com/nyanzonudeshi/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "シュドゥダン",
+            "artist": "にゃんぞぬデシ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "にゃんぞぬデシ",
+                    "twitter_url": "https://x.com/nyanzoudeshi",
+                    "instagram_url": "https://www.instagram.com/nyanzonudeshi/"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "month": "6",
+    "podcastUrl": "https://open.spotify.com/embed/episode/1bBhgU74ChKT5yVl2oVxkM?si=701daff11dfc4c4d?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/4auvZgc2pdJLZW6mHNzj0D?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "遊星よりアイをこめて",
+            "artist": "カイ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "カイ",
+                    "twitter_url": "",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Girls Don't Cry - in the blue shirt Remix",
+            "artist": "ONEPIXCEL",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ONEPIXCEL",
+                    "twitter_url": "https://x.com/onepixcel",
+                    "instagram_url": "https://www.instagram.com/onepixcel_official/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "あなたのダンスで騒がしい",
+            "artist": "私立恵比寿中学",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "私立恵比寿中学",
+                    "twitter_url": "https://x.com/ebichu_staff",
+                    "instagram_url": "https://www.instagram.com/shiritsuebisuchugaku/"
+                }
+            ]
+        }
+    ]
+}

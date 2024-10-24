@@ -1,0 +1,121 @@
+{
+    "month": "6",
+    "podcastUrl": "https://open.spotify.com/embed/episode/7f5SAAffkThgbLLYpIil4P?si=b45c0f44bfb54841?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/6kuantLhkHMtk7QgljFHMC?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "It’s show time",
+            "artist": "フィロソフィーのダンス",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "フィロソフィーのダンス",
+                    "twitter_url": "https://x.com/DFP_2015",
+                    "instagram_url": "https://www.instagram.com/dance_for_philosophy/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "裁かるゝエミリ",
+            "artist": "Francis,加納エミリ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Francis",
+                    "twitter_url": "https://x.com/orimakoto",
+                    "instagram_url": "https://www.instagram.com/orimakoto/"
+                },
+                {
+                    "artist_name": "加納エミリ",
+                    "twitter_url": "https://x.com/emily_k0213",
+                    "instagram_url": "https://www.instagram.com/emirikanou/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "香港庭園",
+            "artist": "サリー久保田グループ,井出ちよの",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "サリー久保田グループ",
+                    "twitter_url": "https://x.com/sallykubota",
+                    "instagram_url": ""
+                },
+                {
+                    "artist_name": "井出ちよの",
+                    "twitter_url": "https://x.com/minanaro3776",
+                    "instagram_url": "https://www.instagram.com/3776chiyono/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "Ordinary",
+            "artist": "早見沙織",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "早見沙織",
+                    "twitter_url": "https://x.com/hayami_official",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "Y",
+            "artist": "内山結愛",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "内山結愛",
+                    "twitter_url": "https://x.com/__yuuaself__",
+                    "instagram_url": "https://www.instagram.com/_yuua__4649o0/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "アトモスフィアに命題を",
+            "artist": "宮野弦士,綾瀬志希",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "宮野弦士",
+                    "twitter_url": "https://x.com/GentoMiyano",
+                    "instagram_url": "https://www.instagram.com/gentomiyano/"
+                },
+                {
+                    "artist_name": "綾瀬志希",
+                    "twitter_url": "https://x.com/_shiki_ayase",
+                    "instagram_url": "https://www.instagram.com/shikinobu/"
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "track_name": "doll's ark",
+            "artist": "cherish your bubble",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "cherish your bubble",
+                    "twitter_url": "https://x.com/cheri_bub",
+                    "instagram_url": ""
+                }
+            ]
+        }
+    ]
+}

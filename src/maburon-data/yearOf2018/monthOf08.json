@@ -1,0 +1,78 @@
+{
+    "month": "8",
+    "podcastUrl": "https://open.spotify.com/embed/episode/3091bQG0U8cjWUvjgbfnwR?si=21646d7df6b144f4?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/0iooExMD1g65954ZWHjyfO?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Gozigen Lover-Joi",
+            "artist": "脇田もなり",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "脇田もなり",
+                    "twitter_url": "https://x.com/MonariWakita",
+                    "instagram_url": "https://www.instagram.com/monariwakita/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "素直に甘えて",
+            "artist": "Juice=Juice",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Juice=Juice",
+                    "twitter_url": "https://x.com/JuiceJuice_uf",
+                    "instagram_url": "https://www.instagram.com/juice_juice_official/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "花火と漫画とチョコと雨",
+            "artist": "はちみつロケット",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "はちみつロケット",
+                    "twitter_url": "https://x.com/8rocketofficial",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "silver",
+            "artist": "sora tob sakana",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "sora tob sakana",
+                    "twitter_url": "https://x.com/soratobsakana",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "Tiny Baby",
+            "artist": "Perfume",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Perfume",
+                    "twitter_url": "https://x.com/Perfume_Staff",
+                    "instagram_url": "https://www.instagram.com/prfm_official/"
+                }
+            ]
+        }
+    ]
+}

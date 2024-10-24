@@ -6,7 +6,7 @@
  */
 
 import * as React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 
 import Header from "./header"
 import "./layout.css"
@@ -39,9 +39,25 @@ const Layout = ({ children }) => {
             fontSize: `var(--font-sm)`,
           }}
         >
-          © {new Date().getFullYear()} &middot; Built with
+          {/*© {new Date().getFullYear()} &middot; Built with
           {` `}
           <a href="https://www.gatsbyjs.com">Gatsby</a>
+          */}
+          <div>
+            <div>マブ論アーカイブ</div>
+              <div>
+                <ul>
+                  <Link
+                    to="/privacy-policy"
+                    style={{
+                    textDecoration: `none`,
+                    }}
+                  >
+                  <li>プライバシーポリシー</li>
+                  </Link>
+                </ul>
+              </div>
+          </div>
         </footer>
       </div>
     </>

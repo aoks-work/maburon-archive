@@ -1,0 +1,78 @@
+{
+    "month": "4",
+    "podcastUrl": "https://open.spotify.com/embed/episode/1k26HfPr78B17HMIOSI5vA?si=de648c5f88f9416b?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/7LF9KXnghgxSLW7aXX4lOI?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "TIME MACHINE",
+            "artist": "lyrical school",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "lyrical school",
+                    "twitter_url": "https://x.com/lyri_sch",
+                    "instagram_url": "https://www.instagram.com/lyricalschool/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "SPARK!!",
+            "artist": "O'CHAWANZ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "O'CHAWANZ",
+                    "twitter_url": "https://x.com/O_CHAWANZ",
+                    "instagram_url": "https://www.instagram.com/secondfactory.jp/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "はじめまして東京",
+            "artist": "おーるどにゅーすぺーぱー",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "おーるどにゅーすぺーぱー",
+                    "twitter_url": "",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "鼓動",
+            "artist": "femme fatale",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "femme fatale",
+                    "twitter_url": "https://x.com/femme_iDOL",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "ワ.ガ.マ.マ. - MURO’s KG Remix",
+            "artist": "東京女子流",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "東京女子流",
+                    "twitter_url": "https://x.com/TokyoGirlsStyle",
+                    "instagram_url": "https://www.instagram.com/tokyogirlsstyle/"
+                }
+            ]
+        }
+    ]
+}

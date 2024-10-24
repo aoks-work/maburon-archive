@@ -1,0 +1,106 @@
+{
+    "month": "9",
+    "podcastUrl": "https://open.spotify.com/embed/episode/1J4Cn4nki3p33e9G2LEWBg?si=5bfc25a0cebb4175?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/0D6biG8K7aSkCSeV1lUhnm?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "ラヴ・クラウド",
+            "artist": "Perfume",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Perfume",
+                    "twitter_url": "https://x.com/Perfume_Staff",
+                    "instagram_url": "https://www.instagram.com/prfm_official/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "中川翔子",
+            "artist": "中川翔子",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "中川翔子",
+                    "twitter_url": "https://x.com/shoko55mmts",
+                    "instagram_url": "https://www.instagram.com/shoko55mmts"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "ターミナル",
+            "artist": "RYUTist",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "RYUTist",
+                    "twitter_url": "https://x.com/RYUTist_info",
+                    "instagram_url": "https://www.instagram.com/ryutist_info/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "私がお金持ちになっても",
+            "artist": "MaNaMaNa",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MaNaMaNa",
+                    "twitter_url": "https://x.com/_hayashinaomi",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "NO ONE",
+            "artist": "ん・フェニ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ん・フェニ",
+                    "twitter_url": "https://x.com/n__feni",
+                    "instagram_url": "https://www.instagram.com/n__feni/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "気がつけば あなた",
+            "artist": "寺嶋由芙",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "寺嶋由芙",
+                    "twitter_url": "https://x.com/yufu_0708",
+                    "instagram_url": "https://www.instagram.com/yufu_terashima/"
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "track_name": "めくるMake Love",
+            "artist": "脇田もなり",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "脇田もなり",
+                    "twitter_url": "https://x.com/MonariWakita",
+                    "instagram_url": "https://www.instagram.com/monariwakita/"
+                }
+            ]
+        }
+    ]
+}

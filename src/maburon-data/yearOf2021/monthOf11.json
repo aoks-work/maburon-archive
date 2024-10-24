@@ -1,0 +1,83 @@
+{
+    "month": "11",
+    "podcastUrl": "https://open.spotify.com/embed/episode/6749Xlb38LZytibFwHBQwj?si=7e69631919a541fc?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/2In3GalUfM9a50aPiOLAko?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "So good",
+            "artist": "Megu",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Megu",
+                    "twitter_url": "https://x.com/Megu_Negicco",
+                    "instagram_url": "https://www.instagram.com/megu_negicco/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "レア",
+            "artist": "CYNHN",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "CYNHN",
+                    "twitter_url": "https://x.com/CYNHN_DS",
+                    "instagram_url": "https://www.instagram.com/cynhn_ds/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "鬼でもない",
+            "artist": "MAINAMIND,Ryozo Band",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MAINAMIND",
+                    "twitter_url": "https://x.com/mainamind24",
+                    "instagram_url": "https://www.instagram.com/mainamind_/"
+                },
+                {
+                    "artist_name": "Ryozo Band",
+                    "twitter_url": "https://x.com/ryo338",
+                    "instagram_url": "https://www.instagram.com/ryozo_obayashi/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "Lucky Number",
+            "artist": "AMEFURASSHI",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "AMEFURASSHI",
+                    "twitter_url": "https://x.com/amefurasshi",
+                    "instagram_url": "https://www.instagram.com/amefurasshi_official"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "古参LOOP",
+            "artist": "MAPA",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MAPA",
+                    "twitter_url": "https://x.com/xxxxMAPAxxxx",
+                    "instagram_url": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "month": "5",
+    "podcastUrl": "https://open.spotify.com/embed/episode/7JLEkSIrMfuhaMCnFROXfu?si=8cbbdce8e70f4294?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/7f7m2keEaTXoEB0USWimxx?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "隕石でごめんなさい",
+            "artist": "ゆっきゅん",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ゆっきゅん",
+                    "twitter_url": "https://x.com/guilty_kyun",
+                    "instagram_url": "https://www.instagram.com/guilty_kyun/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "ため息さえも",
+            "artist": "文坂なの",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "文坂なの",
+                    "twitter_url": "https://x.com/ayasaka_nano",
+                    "instagram_url": "https://www.instagram.com/ayasaka_nano/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "rhythm",
+            "artist": "ミアナシメント",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ミアナシメント",
+                    "twitter_url": "https://x.com/miamiasmile",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "エメラルド",
+            "artist": "早見沙織",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "早見沙織",
+                    "twitter_url": "https://x.com/hayami_official",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "凪です。",
+            "artist": "situasion",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "situasion",
+                    "twitter_url": "https://x.com/situasion_info",
+                    "instagram_url": "https://www.instagram.com/situasion_info/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "Magic of love",
+            "artist": "AMEFURASSHI",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "AMEFURASSHI",
+                    "twitter_url": "https://x.com/amefurasshi",
+                    "instagram_url": "https://www.instagram.com/amefurasshi_official"
+                }
+            ]
+        }
+    ]
+}

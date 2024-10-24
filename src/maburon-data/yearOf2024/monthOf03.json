@@ -1,0 +1,186 @@
+{
+    "month": "3",
+    "podcastUrl": "https://open.spotify.com/embed/episode/7ARykL4h7wcrgOWtmSdbwZ?si=3849271815c249c2?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/3CSaNQnpYMmmfW5Posn5Vc?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Love&Loud",
+            "artist": "フィロソフィーのダンス",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "フィロソフィーのダンス",
+                    "twitter_url": "https://x.com/DFP_2015",
+                    "instagram_url": "https://www.instagram.com/dance_for_philosophy/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Romantic",
+            "artist": "HALLCA,kukatachii",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "HALLCA",
+                    "twitter_url": "https://x.com/hallca__jp",
+                    "instagram_url": "https://www.instagram.com/hallca__jp/"
+                },
+                {
+                    "artist_name": "kukatachii",
+                    "twitter_url": "https://x.com/you_never_die",
+                    "instagram_url": "https://www.instagram.com/kukatachii/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "ジャンク",
+            "artist": "AIR-CON BOOM BOOM ONESAN",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "AIR-CON BOOM BOOM ONESAN",
+                    "twitter_url": "https://x.com/shinchikunoinu",
+                    "instagram_url": "https://www.instagram.com/genmary6/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "素直な悪女",
+            "artist": "Wink Music Service",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Wink Music Service",
+                    "twitter_url": "",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "Midnight Highway",
+            "artist": "桐生ちあり",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "桐生ちあり",
+                    "twitter_url": "https://x.com/kiluyu__",
+                    "instagram_url": "https://www.instagram.com/chiastagram_0906/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "TWINKLE WINK",
+            "artist": "私立恵比寿中学",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "私立恵比寿中学",
+                    "twitter_url": "https://x.com/ebichu_staff",
+                    "instagram_url": "https://www.instagram.com/shiritsuebisuchugaku/"
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "track_name": "透明",
+            "artist": "ukka",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ukka",
+                    "twitter_url": "https://x.com/ukka_music",
+                    "instagram_url": "https://www.instagram.com/_ukka_official/"
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "track_name": "恋は向いてない",
+            "artist": "櫻坂46",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "櫻坂46",
+                    "twitter_url": "https://x.com/sakurazaka46",
+                    "instagram_url": "https://www.instagram.com/sakurazaka46jp/"
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "track_name": "CheerS",
+            "artist": "さとうらら,Sammy Adjei",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "さとうらら",
+                    "twitter_url": "https://x.com/lala_sugarin",
+                    "instagram_url": "https://www.instagram.com/sugar.lala.deshu"
+                },
+                {
+                    "artist_name": "Sammy Adjei",
+                    "twitter_url": "https://x.com/sakurazaka46",
+                    "instagram_url": "https://www.instagram.com/tsuki8680/"
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "track_name": "2:30am",
+            "artist": "東京女子流",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "東京女子流",
+                    "twitter_url": "https://x.com/TokyoGirlsStyle",
+                    "instagram_url": "https://www.instagram.com/tokyogirlsstyle/"
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "track_name": "一雨",
+            "artist": "fishbowl",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "fishbowl",
+                    "twitter_url": "https://x.com/fishbowl2021",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 12,
+            "track_name": "Secret",
+            "artist": "AMEFURASSHI",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "AMEFURASSHI",
+                    "twitter_url": "https://x.com/amefurasshi",
+                    "instagram_url": "https://www.instagram.com/amefurasshi_official"
+                }
+            ]
+        }
+    ]
+}

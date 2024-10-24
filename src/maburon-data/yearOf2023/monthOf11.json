@@ -1,0 +1,176 @@
+{
+    "month": "11",
+    "podcastUrl": "https://open.spotify.com/embed/episode/0WxnuhhRvcLh4iQvtFqLhh?si=0e07d0d8c0c54834?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/0mVrlVzLLfZgW0jw3E63jw?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "SPIN",
+            "artist": "AMEFURASSHI",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "AMEFURASSHI",
+                    "twitter_url": "https://x.com/amefurasshi",
+                    "instagram_url": "https://www.instagram.com/amefurasshi_official"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "ambivalence, dance",
+            "artist": "usabeni",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "usabeni",
+                    "twitter_url": "https://x.com/usakura_beni",
+                    "instagram_url": "https://www.instagram.com/usabeni_/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "DR.SMOOTHIE",
+            "artist": "AFTERS",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "AFTERS",
+                    "twitter_url": "https://x.com/AFTERS_INFO",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "ハウっちゃう",
+            "artist": "天ノ譜ステラ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "天ノ譜ステラ",
+                    "twitter_url": "https://x.com/amanofu_stella",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "Flyways",
+            "artist": "jubilee jubilee",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "jubilee jubilee",
+                    "twitter_url": "https://x.com/jubileejubilee",
+                    "instagram_url": "https://www.instagram.com/jubileejubilee_official/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "満福デヱト",
+            "artist": "根本凪",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "根本凪",
+                    "twitter_url": "https://x.com/nemoto_nagi",
+                    "instagram_url": "https://www.instagram.com/nemonagi/"
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "track_name": "夜のグラデーション",
+            "artist": "降幡 愛",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "降幡 愛",
+                    "twitter_url": "https://x.com/furihata_ai",
+                    "instagram_url": "https://www.instagram.com/furihatagram/"
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "track_name": "空色ミサンガ",
+            "artist": "伊藤美来",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "伊藤美来",
+                    "twitter_url": "https://x.com/InfoItomiku",
+                    "instagram_url": "https://www.instagram.com/itomiku_official/"
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "track_name": "待ち合わせ",
+            "artist": "桐生ちあり",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "桐生ちあり",
+                    "twitter_url": "https://x.com/kiluyu__",
+                    "instagram_url": "https://www.instagram.com/chiastagram_0906/"
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "track_name": "Carmine泥んで",
+            "artist": "nuance",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "nuance",
+                    "twitter_url": "https://x.com/nuance_official",
+                    "instagram_url": "https://www.instagram.com/official_nuance/"
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "track_name": "すっごいFEVER！",
+            "artist": "モーニング娘。'23",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "モーニング娘。'23",
+                    "twitter_url": "https://x.com/MorningMusumeMg",
+                    "instagram_url": "https://www.instagram.com/morningmusume_official/"
+                }
+            ]
+        },
+        {
+            "number": 12,
+            "track_name": "すみっコディスコ",
+            "artist": "Perfume",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Perfume",
+                    "twitter_url": "https://x.com/Perfume_Staff",
+                    "instagram_url": "https://www.instagram.com/prfm_official/"
+                }
+            ]
+        }
+    ]
+}

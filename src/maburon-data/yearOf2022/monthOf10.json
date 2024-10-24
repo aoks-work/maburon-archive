@@ -1,0 +1,86 @@
+{
+    "month": "10",
+    "podcastUrl": "https://open.spotify.com/embed/episode/0YVgdGy8f8z1J5VhK98Kc3?si=5546a95655894f54?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/50tftifJ59ue9ClnDfxRr5?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Inner Heaven",
+            "artist": "HALLCA",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "HALLCA",
+                    "twitter_url": "https://x.com/hallca__jp",
+                    "instagram_url": "https://www.instagram.com/hallca__jp/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Shooting Star",
+            "artist": "CIRGO GRINCO",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": []
+        },
+        {
+            "number": 3,
+            "track_name": "白いスターダスト",
+            "artist": "Megu",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Megu",
+                    "twitter_url": "https://x.com/Megu_Negicco",
+                    "instagram_url": "https://www.instagram.com/megu_negicco/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "ラベンダーミルクの思惑",
+            "artist": "根本凪",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "根本凪",
+                    "twitter_url": "https://x.com/nemoto_nagi",
+                    "instagram_url": "https://www.instagram.com/nemonagi/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "Wonderland 夕闇 City",
+            "artist": "降幡 愛",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "降幡 愛",
+                    "twitter_url": "https://x.com/furihata_ai",
+                    "instagram_url": "https://www.instagram.com/furihatagram/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "とき・めき・馬鹿・みたい",
+            "artist": "木下 百花",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "木下 百花",
+                    "twitter_url": "https://x.com/wanderlandlove",
+                    "instagram_url": "https://www.instagram.com/knstmmk/"
+                }
+            ]
+        }
+    ]
+}

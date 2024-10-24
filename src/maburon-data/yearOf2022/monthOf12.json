@@ -1,0 +1,85 @@
+{
+    "month": "12",
+    "podcastUrl": "https://open.spotify.com/embed/episode/5VCZNglzWupOi0rDp1ZZgJ?si=d1fcc58a4cfb48ae?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/1cFCwfg3v6gtYB5fQjBExF?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Agility",
+            "artist": "CIRGO GRINCO",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": []
+        },
+        {
+            "number": 2,
+            "track_name": "今日に恋しよう",
+            "artist": "CIRGO GRINCO",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": []
+        },
+        {
+            "number": 3,
+            "track_name": "恋の後味",
+            "artist": "寺嶋由芙",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "寺嶋由芙",
+                    "twitter_url": "https://x.com/yufu_0708",
+                    "instagram_url": "https://www.instagram.com/yufu_terashima/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "PASSPort",
+            "artist": "RYUTist,蓮沼執太",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "RYUTist",
+                    "twitter_url": "https://x.com/RYUTist_info",
+                    "instagram_url": "https://www.instagram.com/ryutist_info/"
+                },
+                {
+                    "artist_name": "蓮沼執太",
+                    "twitter_url": "https://x.com/Shuta_Hasunuma",
+                    "instagram_url": "https://www.instagram.com/shuta_hasunuma"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "221-B",
+            "artist": "Rebel Rebel",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Rebel Rebel",
+                    "twitter_url": "https://x.com/rebelrebel_id",
+                    "instagram_url": "https://www.instagram.com/rebelrebelid/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "Dang Dang Love",
+            "artist": "femme fatale",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "femme fatale",
+                    "twitter_url": "https://x.com/femme_iDOL",
+                    "instagram_url": ""
+                }
+            ]
+        }
+    ]
+}

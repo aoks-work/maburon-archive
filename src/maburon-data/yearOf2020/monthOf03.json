@@ -1,0 +1,83 @@
+{
+    "month": "3",
+    "podcastUrl": "https://open.spotify.com/embed/episode/3ICyRhHq50gbrxkyfOUo7n?si=bbfa21f1245a4511?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/7zqJMN8JDtcR0sQcRrwyCp?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "透明クリア",
+            "artist": "福原 遥",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "福原 遥",
+                    "twitter_url": "https://x.com/haruka_staff",
+                    "instagram_url": "https://www.instagram.com/haruka.f.official"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "ダンスナンバー",
+            "artist": "木下 百花",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "木下 百花",
+                    "twitter_url": "https://x.com/wanderlandlove",
+                    "instagram_url": "https://www.instagram.com/knstmmk/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "ヒューリスティック・シティ - mabanua remix",
+            "artist": "フィロソフィーのダンス,mabanua",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "フィロソフィーのダンス",
+                    "twitter_url": "https://x.com/DFP_2015",
+                    "instagram_url": "https://www.instagram.com/dance_for_philosophy/"
+                },
+                {
+                    "artist_name": "mabanua",
+                    "twitter_url": "https://x.com/mabanua",
+                    "instagram_url": "https://www.instagram.com/mabanuainsta/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "さよなら世界",
+            "artist": "ゆるめるモ！",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ゆるめるモ！",
+                    "twitter_url": "https://x.com/ylmlm_official",
+                    "instagram_url": "https://www.instagram.com/ylmlm_staff/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "dog kawaii",
+            "artist": "MIC RAW RUGA(laboratory)",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MIC RAW RUGA(laboratory)",
+                    "twitter_url": "https://x.com/micrawruga",
+                    "instagram_url": "https://www.instagram.com/micrawruga/"
+                }
+            ]
+        }
+    ]
+}

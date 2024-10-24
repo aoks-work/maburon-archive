@@ -1,0 +1,120 @@
+{
+    "month": "10",
+    "podcastUrl": "https://open.spotify.com/embed/episode/7rKGzatWin4H47nbBE6TAW?si=f10f16998da94d1a?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/6cgxcBUci6HAlkcC0w4Yjr?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "ソー",
+            "artist": "AIR-CON BOOM BOOM ONESAN",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "AIR-CON BOOM BOOM ONESAN",
+                    "twitter_url": "https://x.com/shinchikunoinu",
+                    "instagram_url": "https://www.instagram.com/genmary6/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "君がいて良かった！了解です。",
+            "artist": "虹のコンキスタドール",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "虹のコンキスタドール",
+                    "twitter_url": "https://x.com/2zicon",
+                    "instagram_url": "https://www.instagram.com/2zicon/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "CO-個性",
+            "artist": "FRUITS ZIPPER",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "FRUITS ZIPPER",
+                    "twitter_url": "https://x.com/FRUITS_ZIPPER",
+                    "instagram_url": "https://www.instagram.com/fruits_zipper/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "What the PAM？",
+            "artist": "月刊PAM",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "月刊PAM",
+                    "twitter_url": "https://x.com/gekkanpam",
+                    "instagram_url": "https://www.instagram.com/gekkanpam/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "失墜の夏",
+            "artist": "Ringwanderung",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Ringwanderung",
+                    "twitter_url": "https://x.com/RWR__OFFICIAL",
+                    "instagram_url": "https://www.instagram.com/ringwanderung_official/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "trip",
+            "artist": "usabeni",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "usabeni",
+                    "twitter_url": "https://x.com/usakura_beni",
+                    "instagram_url": "https://www.instagram.com/usabeni_/"
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "track_name": "恋学(RENGAKU):ポータブルヒューマノイド",
+            "artist": "上坂すみれ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "上坂すみれ",
+                    "twitter_url": "https://x.com/uesaka_official",
+                    "instagram_url": "https://www.instagram.com/uesaka_sumire/"
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "track_name": "虜",
+            "artist": "ExWHYZ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ExWHYZ",
+                    "twitter_url": "https://x.com/ExWHYZ_official",
+                    "instagram_url": "https://www.instagram.com/exwhyz_official_/"
+                }
+            ]
+        }
+    ]
+}

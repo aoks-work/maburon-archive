@@ -1,0 +1,169 @@
+{
+    "month": "7",
+    "podcastUrl": "https://open.spotify.com/embed/episode/0FddJZi5hYHNkqSK2Z9L5c?si=d95b1288cb754292?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/78xTrxt5sbm2gy6v9dyZKp?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "まだ未体験",
+            "artist": "MAINAMIND",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MAINAMIND",
+                    "twitter_url": "https://x.com/mainamind24",
+                    "instagram_url": "https://www.instagram.com/mainamind_/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "PMS",
+            "artist": "MAINAMIND",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MAINAMIND",
+                    "twitter_url": "https://x.com/mainamind24",
+                    "instagram_url": "https://www.instagram.com/mainamind_/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "フォーリンラブな時",
+            "artist": "東京女子流",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "東京女子流",
+                    "twitter_url": "https://x.com/TokyoGirlsStyle",
+                    "instagram_url": "https://www.instagram.com/tokyogirlsstyle/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "datura",
+            "artist": "東京女子流",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "東京女子流",
+                    "twitter_url": "https://x.com/TokyoGirlsStyle",
+                    "instagram_url": "https://www.instagram.com/tokyogirlsstyle/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "Ice Bahn",
+            "artist": "usabeni,nonayu",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "usabeni",
+                    "twitter_url": "https://x.com/usakura_beni",
+                    "instagram_url": "https://www.instagram.com/usabeni_/"
+                },
+                {
+                    "artist_name": "nonayu",
+                    "twitter_url": "https://x.com/nonayu_dayo",
+                    "instagram_url": "https://www.instagram.com/nonayu_dayo/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "もう走れなくなっても",
+            "artist": "3776",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "3776",
+                    "twitter_url": "https://x.com/minanaro3776",
+                    "instagram_url": "https://www.instagram.com/3776chiyono/"
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "track_name": "夏の恋人'24",
+            "artist": "可愛　唯",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": []
+        },
+        {
+            "number": 8,
+            "track_name": "ミツバチのささやき",
+            "artist": "Wink Music Service",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Wink Music Service",
+                    "twitter_url": "",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "track_name": "OLD FASHION PASSA NOVA",
+            "artist": "AFTERS",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "AFTERS",
+                    "twitter_url": "https://x.com/AFTERS_INFO",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "track_name": "GO!サニーカート",
+            "artist": "太陽と踊れ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "太陽と踊れ",
+                    "twitter_url": "https://x.com/taiyototsukiyo",
+                    "instagram_url": "https://www.instagram.com/taiyototsukiyo/"
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "track_name": "名前を呼んでくれたなら…♡",
+            "artist": "Yui Horie",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": []
+        },
+        {
+            "number": 12,
+            "track_name": "きゃんでぃーはーと♡ふぁんしーらぶ",
+            "artist": "虹のコンキスタドール",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "虹のコンキスタドール",
+                    "twitter_url": "https://x.com/2zicon",
+                    "instagram_url": "https://www.instagram.com/2zicon/"
+                }
+            ]
+        }
+    ]
+}

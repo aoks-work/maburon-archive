@@ -1,0 +1,92 @@
+{
+    "month": "12",
+    "podcastUrl": "https://open.spotify.com/embed/episode/0xBzkol3AYMIF8eUSEMpFo?si=0e92f054cb9f41b1?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/1ZL7jGT17i2hN8138rb5Fl?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "空耳かもしれない",
+            "artist": "SAKA-SAMA",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "SAKA-SAMA",
+                    "twitter_url": "https://x.com/sakasama_info",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "高輪ゲートウェイ駅ができる頃には",
+            "artist": "BEYOOOOONDS",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "BEYOOOOONDS",
+                    "twitter_url": "https://x.com/BEYOOOOONDS_",
+                    "instagram_url": "https://www.instagram.com/beyooooonds_official/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "Just A Feeling",
+            "artist": "加納エミリ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "加納エミリ",
+                    "twitter_url": "https://x.com/emily_k0213",
+                    "instagram_url": "https://www.instagram.com/emirikanou/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "ハーバームーン",
+            "artist": "nuance",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "nuance",
+                    "twitter_url": "https://x.com/nuance_official",
+                    "instagram_url": "https://www.instagram.com/official_nuance/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "サンタとUFO",
+            "artist": "S-Qty",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "S-Qty",
+                    "twitter_url": "",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "シングルTONEでお願い (Prod. ポセイドン・石川)",
+            "artist": "私立恵比寿中学",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "私立恵比寿中学",
+                    "twitter_url": "https://x.com/ebichu_staff",
+                    "instagram_url": "https://www.instagram.com/shiritsuebisuchugaku/"
+                }
+            ]
+        }
+    ]
+}

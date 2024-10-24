@@ -1,0 +1,78 @@
+{
+    "month": "2",
+    "podcastUrl": "https://open.spotify.com/embed/episode/2bhmUHoxz1GLQaQczIkU3E?si=ccacf621a20844d6?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/3ieTvsH92hHoGxjZRJeyRr?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "透明なオレンジ",
+            "artist": "中島愛",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "中島愛",
+                    "twitter_url": "https://x.com/mamegu_staff",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Tokyo Burning",
+            "artist": "lyrical school",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "lyrical school",
+                    "twitter_url": "https://x.com/lyri_sch",
+                    "instagram_url": "https://www.instagram.com/lyricalschool/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "タイムマジックロンリー",
+            "artist": "nuance",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "nuance",
+                    "twitter_url": "https://x.com/nuance_official",
+                    "instagram_url": "https://www.instagram.com/official_nuance/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "Ice Nine",
+            "artist": "まちだガールズ・クワイア",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "まちだガールズ・クワイア",
+                    "twitter_url": "https://x.com/MGC_Office",
+                    "instagram_url": "https://www.instagram.com/mgc_office/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "It’s all right!!",
+            "artist": "WHY@DOLL",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "WHY@DOLL",
+                    "twitter_url": "https://x.com/whydoll2014",
+                    "instagram_url": ""
+                }
+            ]
+        }
+    ]
+}

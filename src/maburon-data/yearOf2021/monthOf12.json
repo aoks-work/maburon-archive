@@ -1,0 +1,78 @@
+{
+    "month": "12",
+    "podcastUrl": "https://open.spotify.com/embed/episode/2FXJSPpY2kWZVgUOV3dxZ2?si=db08fa3826db43c2?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/4gEY7WaXhriR4RWVMUQYWm?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Sweet Pain",
+            "artist": "HALLCA",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "HALLCA",
+                    "twitter_url": "https://x.com/hallca__jp",
+                    "instagram_url": "https://www.instagram.com/hallca__jp/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Steppin'",
+            "artist": "加納エミリ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "加納エミリ",
+                    "twitter_url": "https://x.com/emily_k0213",
+                    "instagram_url": "https://www.instagram.com/emirikanou/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "City Hunter - 1985Remix Emiri ver",
+            "artist": "加納エミリ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "加納エミリ",
+                    "twitter_url": "https://x.com/emily_k0213",
+                    "instagram_url": "https://www.instagram.com/emirikanou/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "PINK",
+            "artist": "桐生ちあり",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "桐生ちあり",
+                    "twitter_url": "https://x.com/kiluyu__",
+                    "instagram_url": "https://www.instagram.com/chiastagram_0906/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "Dress Down",
+            "artist": "minan",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "minan",
+                    "twitter_url": "https://x.com/Minan1205",
+                    "instagram_url": "https://www.instagram.com/_manybooks_/"
+                }
+            ]
+        }
+    ]
+}

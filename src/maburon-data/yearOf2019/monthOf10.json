@@ -1,0 +1,64 @@
+{
+    "month": "10",
+    "podcastUrl": "https://open.spotify.com/embed/episode/4LldJuwokHlb3E0j6m8Bk1?si=cb2c657e7c5e467f?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/5xx8YSco9ixd6ALsZx8ely?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Diamond",
+            "artist": "HALLCA",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "HALLCA",
+                    "twitter_url": "https://x.com/hallca__jp",
+                    "instagram_url": "https://www.instagram.com/hallca__jp/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Show the Night",
+            "artist": "HALLCA",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "HALLCA",
+                    "twitter_url": "https://x.com/hallca__jp",
+                    "instagram_url": "https://www.instagram.com/hallca__jp/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "神無月十拍子二調",
+            "artist": "3776",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "3776",
+                    "twitter_url": "https://x.com/minanaro3776",
+                    "instagram_url": "https://www.instagram.com/3776chiyono/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "夢・Dreamer",
+            "artist": "Negicco",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Negicco",
+                    "twitter_url": "https://x.com/Negicco_Info",
+                    "instagram_url": "https://www.instagram.com/negicco_official/"
+                }
+            ]
+        }
+    ]
+}

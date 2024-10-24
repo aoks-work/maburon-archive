@@ -1,0 +1,174 @@
+import * as React from "react"
+import { Link, graphql} from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
+
+import Layout from "../../components/layout"
+import Seo from "../../components/seo"
+import * as link_styles from "../../components/link.module.css"
+
+const archive_2019 = ({ data }) => {
+    return(
+  <Layout>
+    <h2>2019年アーカイブ</h2>
+    <div className="monthsLink">
+    <ul>
+        <Link
+            to="/discography/2019/2"
+            style={{textDecoration: `none`}}
+        >
+            <li>2月</li>
+        </Link>
+        <Link
+            to="/discography/2019/3"
+            style={{textDecoration: `none`}}
+        >
+            <li>3月</li>
+        </Link>
+        <Link
+            to="/discography/2019/4"
+            style={{textDecoration: `none`}}
+        >
+            <li>4月</li>
+        </Link>
+        <Link
+            to="/discography/2019/5"
+            style={{textDecoration: `none`}}
+        >
+            <li>5月</li>
+        </Link>
+        <Link
+            to="/discography/2019/6"
+            style={{textDecoration: `none`}}
+        >
+            <li>6月</li>
+        </Link>
+        <Link
+            to="/discography/2019/7"
+            style={{textDecoration: `none`}}
+        >
+            <li>7月</li>
+        </Link>
+        <Link
+            to="/discography/2019/8"
+            style={{textDecoration: `none`}}
+        >
+            <li>8月</li>
+        </Link>
+        <Link
+            to="/discography/2019/9"
+            style={{textDecoration: `none`}}
+        >
+            <li>9月</li>
+        </Link>
+        <Link
+            to="/discography/2019/10"
+            style={{textDecoration: `none`}}
+        >
+            <li>10月</li>
+        </Link>
+        <Link
+            to="/discography/2019/11"
+            style={{textDecoration: `none`}}
+        >
+            <li>11月</li>
+        </Link>
+        <Link
+            to="/discography/2019/12"
+            style={{textDecoration: `none`}}
+        >
+            <li>12月</li>
+        </Link>
+    </ul>
+    </div> {/* monthsLink */}
+    <h3>2月</h3>
+    {data.allYearOf2019Json.edges.map(({ node }) => (
+        <div key={node.id} className="json-data">
+          <div className={link_styles.podcast_link}>  {/* podcast playlist bubka */}
+            <iframe
+            src={node.podcastUrl}
+            title="podcast"
+            ></iframe>
+          </div>
+          <div className={link_styles.playlist_link}>
+            <iframe
+            src={node.playlistUrl}
+            title="podcast"
+            ></iframe>
+          </div> {/* podcast playlist bubka */}
+        <div> {/* 楽曲リスト */}
+        {node.track_list.map((list) => (
+            <div className={link_styles.tracksInfo}>
+                <div key={list.number} className={link_styles.trackInfo}>
+                  <p className={link_styles.trackInfo}>{list.number}.{list.track_name}</p> {/* トラックリスト */}
+                 {list.artist_link.map((link, index) => (
+                    <div key={index} className={link_styles.artistInfo}>
+                      <div className={link_styles.artistName}>{link.artist_name}</div>
+                      <div  className={link_styles.snsInfo}>
+                        <div className="twitter-info">
+                        {link.twitter_url !== "" &&
+                          <a href={link.twitter_url} target="_blank" rel="noopener noreferrer">
+                          <StaticImage
+                          src="../../images/icon-twitter.png"
+                          alt="twitter-icon"
+                          placeholder="blurred"
+                          layout="constrained"
+                          style={{ width: `var(--static-image-width)`}}
+                          />
+                          </a>
+                          }
+                        </div> {/* twitter-info */}
+                        <div className="instagram-info">
+                        {link.instagram_url !== "" &&
+                          <a href={link.instagram_url} target="_blank" rel="noopener noreferrer">
+                          <StaticImage
+                          src="../../images/icon-instagram.png"
+                          alt="insta-icon"
+                          placeholder="blurred"
+                          layout="constrained"
+                          style={{ width: `var(--static-image-width)`}}
+                          />
+                          </a>
+                          }
+                        </div> {/* instagram-info */}
+                     </div> {/* sns-info */}
+                    </div> /* artist-info */
+                  ))}
+                  </div>
+                </div> /* トラックリスト */
+              ))}
+        </div> {/* 楽曲リスト */}
+      </div >  /*json-data */
+    ))}
+  </Layout>
+  )
+}
+
+export const data = graphql`
+    query {
+      allYearOf2019Json(filter: {month: {eq: "2"}}) {
+    edges {
+      node {
+        month
+        playlistUrl
+        podcastUrl
+        bubkaUrl
+        track_list {
+          artist
+          artist_link {
+            artist_name
+            instagram_url
+            twitter_url
+          }
+          is_subscribe
+          number
+          track_name
+          youtubeUrl
+        }
+      }
+    }
+  }
+    }`
+
+export const Head = () => <Seo title="2019年アーカイブ" />
+
+export default archive_2019

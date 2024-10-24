@@ -1,0 +1,83 @@
+{
+    "month": "7",
+    "podcastUrl": "https://open.spotify.com/embed/episode/11eA60VoyAkxOWFdltiJJ2?si=ffba17e84b0a4209?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/5decKh7Mxw7XRwgt0Pyp1D?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "君も好きだったんだね、夏",
+            "artist": "寺嶋由芙",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "寺嶋由芙",
+                    "twitter_url": "https://x.com/yufu_0708",
+                    "instagram_url": "https://www.instagram.com/yufu_terashima/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "2時のパレード Kan Sano Remix",
+            "artist": "CYNHN,Kan Sano",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "CYNHN",
+                    "twitter_url": "https://x.com/CYNHN_DS",
+                    "instagram_url": "https://www.instagram.com/cynhn_ds/"
+                },
+                {
+                    "artist_name": "Kan Sano",
+                    "twitter_url": "https://x.com/kansano",
+                    "instagram_url": "https://www.instagram.com/k.an.s.an.o/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "はっきりしようぜ",
+            "artist": "アンジュルム",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "アンジュルム",
+                    "twitter_url": "https://x.com/angerme_upfront",
+                    "instagram_url": "https://www.instagram.com/angerme_official/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "SUMMER IS OVER",
+            "artist": "ん・フェニ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ん・フェニ",
+                    "twitter_url": "https://x.com/n__feni",
+                    "instagram_url": "https://www.instagram.com/n__feni/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "響けカンパーナ",
+            "artist": "川上きらら",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "川上きらら",
+                    "twitter_url": "https://x.com/KiraraKawakami",
+                    "instagram_url": ""
+                }
+            ]
+        }
+    ]
+}

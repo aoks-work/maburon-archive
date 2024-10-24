@@ -1,0 +1,83 @@
+{
+    "month": "9",
+    "podcastUrl": "https://open.spotify.com/embed/episode/2oKpiq7ghNGctmzML1qIr4?si=a7f4af0b8c134991?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/1rIgRSvnsvwmEcUERX2VTP?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Sneakers!!!",
+            "artist": "Negicco",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Negicco",
+                    "twitter_url": "https://x.com/Negicco_Info",
+                    "instagram_url": "https://www.instagram.com/negicco_official/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "君とLove With You!",
+            "artist": "connie",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "connie",
+                    "twitter_url": "https://x.com/RunoDaviau",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "セピア色の九月",
+            "artist": "Kaede,Lamp",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Kaede",
+                    "twitter_url": "https://x.com/Kaede_NGC",
+                    "instagram_url": "https://www.instagram.com/kaede_ngc/"
+                },
+                {
+                    "artist_name": "Lamp",
+                    "twitter_url": "https://x.com/lamp_someya",
+                    "instagram_url": "https://www.instagram.com/botanicalhouse_lamp/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "ばたふらい・だんしんぐ",
+            "artist": "963",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "963",
+                    "twitter_url": "https://x.com/9x6x3",
+                    "instagram_url": "https://www.instagram.com/9x6x3/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "わたしの高校生活",
+            "artist": "井出ちよの",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "井出ちよの",
+                    "twitter_url": "https://x.com/minanaro3776",
+                    "instagram_url": "https://www.instagram.com/3776chiyono/"
+                }
+            ]
+        }
+    ]
+}

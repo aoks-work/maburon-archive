@@ -1,0 +1,64 @@
+{
+    "month": "12",
+    "podcastUrl": "https://open.spotify.com/embed/episode/3KrnkHcXKnqIAHqeYq3zjO?si=bf72708b317c445c?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/1WdnIcc2hlz8wdJsyTsp5B?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "恋心、赤い熱気球",
+            "artist": "カノサレ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "カノサレ",
+                    "twitter_url": "https://x.com/kanosare",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "みんな迷子",
+            "artist": "寺嶋由芙",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "寺嶋由芙",
+                    "twitter_url": "https://x.com/yufu_0708",
+                    "instagram_url": "https://www.instagram.com/yufu_terashima/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "安眠swimming",
+            "artist": "femme fatale",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "femme fatale",
+                    "twitter_url": "https://x.com/femme_iDOL",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "sari no shitaku",
+            "artist": "SARI",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "SARI",
+                    "twitter_url": "https://x.com/sari_of_sari",
+                    "instagram_url": "https://www.instagram.com/sari_japan/"
+                }
+            ]
+        }
+    ]
+}

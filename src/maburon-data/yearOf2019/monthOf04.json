@@ -1,0 +1,78 @@
+{
+    "month": "4",
+    "podcastUrl": "https://open.spotify.com/embed/episode/3QzHQrqGbFVEfs2OoUb8BB?si=d1ed9b01ceae4a8e?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/400gdJBJYXjd6eCVw8kImn?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "シューティングスター・ランデブー",
+            "artist": "sora tob sakana",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "sora tob sakana",
+                    "twitter_url": "https://x.com/soratobsakana",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "ゆびきり",
+            "artist": "jubilee jubilee",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "jubilee jubilee",
+                    "twitter_url": "https://x.com/jubileejubilee",
+                    "instagram_url": "https://www.instagram.com/jubileejubilee_official/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "フリー・ユア・フェスタ",
+            "artist": "フィロソフィーのダンス",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "フィロソフィーのダンス",
+                    "twitter_url": "https://x.com/DFP_2015",
+                    "instagram_url": "https://www.instagram.com/dance_for_philosophy/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "Dear My Star",
+            "artist": "MELLOW MELLOW",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MELLOW MELLOW",
+                    "twitter_url": "https://x.com/mellow03mellow",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "俳句Funk",
+            "artist": "RHYMEBERRY",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "RHYMEBERRY",
+                    "twitter_url": "https://x.com/rbstko",
+                    "instagram_url": ""
+                }
+            ]
+        }
+    ]
+}

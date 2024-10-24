@@ -1,0 +1,83 @@
+{
+    "month": "6",
+    "podcastUrl": "https://open.spotify.com/embed/episode/6nIo9zlwJ22PnkRSrYON7Q?si=d520773ee4e74ab2?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/6zLRqbzmR5v2syFpAOlED4?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "ONDO",
+            "artist": "脇田もなり",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "脇田もなり",
+                    "twitter_url": "https://x.com/MonariWakita",
+                    "instagram_url": "https://www.instagram.com/monariwakita/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "太陽と星の狭間で",
+            "artist": "Megu",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Megu",
+                    "twitter_url": "https://x.com/Megu_Negicco",
+                    "instagram_url": "https://www.instagram.com/megu_negicco/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "夏の十字路",
+            "artist": "Kaede,佐藤優介",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Kaede",
+                    "twitter_url": "https://x.com/Kaede_NGC",
+                    "instagram_url": "https://www.instagram.com/kaede_ngc/"
+                },
+                {
+                    "artist_name": "佐藤優介",
+                    "twitter_url": "https://x.com/satoyusukeee",
+                    "instagram_url": "https://www.instagram.com/satoyusukeeee/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "Cloud9",
+            "artist": "エレファンク庭",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "エレファンク庭",
+                    "twitter_url": "https://x.com/ele_funk_garden",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "は鏡合わせ",
+            "artist": "さっきの女の子、",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "さっきの女の子、",
+                    "twitter_url": "https://x.com/InfoSakijo",
+                    "instagram_url": "https://www.instagram.com/sakijo_official/"
+                }
+            ]
+        }
+    ]
+}

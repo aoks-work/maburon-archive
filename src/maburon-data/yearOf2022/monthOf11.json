@@ -1,0 +1,77 @@
+{
+    "month": "11",
+    "podcastUrl": "https://open.spotify.com/embed/episode/7zWBtMn3bY1NthPgZc9vtb?si=6f20b46e448c4f70?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/2aUZGq6KbBUKeKYtQ9VF04?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Clap your hands",
+            "artist": "フィロソフィーのダンス",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "フィロソフィーのダンス",
+                    "twitter_url": "https://x.com/DFP_2015",
+                    "instagram_url": "https://www.instagram.com/dance_for_philosophy/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Lovin’U",
+            "artist": "MAINAMIND,Ryozo Band",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MAINAMIND",
+                    "twitter_url": "https://x.com/mainamind24",
+                    "instagram_url": "https://www.instagram.com/mainamind_/"
+                },
+                {
+                    "artist_name": "Ryozo Band",
+                    "twitter_url": "https://x.com/ryo338",
+                    "instagram_url": "https://www.instagram.com/ryozo_obayashi/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "Love is love",
+            "artist": "AMEFURASSHI",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "AMEFURASSHI",
+                    "twitter_url": "https://x.com/amefurasshi",
+                    "instagram_url": "https://www.instagram.com/amefurasshi_official"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "WEEKEND",
+            "artist": "ExWHYZ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ExWHYZ",
+                    "twitter_url": "https://x.com/ExWHYZ_official",
+                    "instagram_url": "https://www.instagram.com/exwhyz_official_/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "Up to You",
+            "artist": "CIRGO GRINCO",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": []
+        }
+    ]
+}

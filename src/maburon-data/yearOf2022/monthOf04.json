@@ -1,0 +1,66 @@
+{
+    "month": "4",
+    "podcastUrl": "https://open.spotify.com/embed/episode/1X4fS06e6BzhxojErRUiTQ?si=6044f59bf28f4dad?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/4gNwYOAqf1fZ3bXsUrmiPD?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "エンドロール",
+            "artist": "青野りえ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": []
+        },
+        {
+            "number": 2,
+            "track_name": "FEELINGS",
+            "artist": "innes",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": []
+        },
+        {
+            "number": 3,
+            "track_name": "OVERNIGHT",
+            "artist": "ミームトーキョー",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ミームトーキョー",
+                    "twitter_url": "https://x.com/memetokyo_info",
+                    "instagram_url": "https://www.instagram.com/memetokyo_info/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "光の射すままに",
+            "artist": "Kaede",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Kaede",
+                    "twitter_url": "https://x.com/Kaede_NGC",
+                    "instagram_url": "https://www.instagram.com/kaede_ngc/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "好印象な恋しよう",
+            "artist": "文坂なの",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "文坂なの",
+                    "twitter_url": "https://x.com/ayasaka_nano",
+                    "instagram_url": "https://www.instagram.com/ayasaka_nano/"
+                }
+            ]
+        }
+    ]
+}

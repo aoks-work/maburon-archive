@@ -1,0 +1,50 @@
+{
+    "month": "5",
+    "podcastUrl": "https://open.spotify.com/embed/episode/6Lsjp6AAHMTnjbp1LgjW9X?si=3b9a00addcfc4d4a?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/2AYGFUg889DtOK8Aa7RJTf?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "無重力ファンタジア",
+            "artist": "RYUTist",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "RYUTist",
+                    "twitter_url": "https://x.com/RYUTist_info",
+                    "instagram_url": "https://www.instagram.com/ryutist_info/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Lightpool",
+            "artist": "sora tob sakana",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "sora tob sakana",
+                    "twitter_url": "https://x.com/soratobsakana",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "Love Your Chu Chu",
+            "artist": "篠崎愛",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "篠崎愛",
+                    "twitter_url": "https://x.com/shinozakiai_226",
+                    "instagram_url": "https://www.instagram.com/shinopp._.ai"
+                }
+            ]
+        }
+    ]
+}

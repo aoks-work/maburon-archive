@@ -1,0 +1,77 @@
+{
+    "month": "11",
+    "podcastUrl": "https://open.spotify.com/embed/episode/4O5yF1G26YjqMDen3X6L4d?si=05ba89083e3147e7?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/6OY5S7dj6Sg8jfTWIZWHt5?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Travel In My Mind",
+            "artist": "広瀬愛菜",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "広瀬愛菜",
+                    "twitter_url": "https://x.com/aina0love",
+                    "instagram_url": "https://www.instagram.com/ainatty_hirose"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "晴れた朝、人生の予感",
+            "artist": "広瀬愛菜",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "広瀬愛菜",
+                    "twitter_url": "https://x.com/aina0love",
+                    "instagram_url": "https://www.instagram.com/ainatty_hirose"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "東京",
+            "artist": "桐生ちあり",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "桐生ちあり",
+                    "twitter_url": "https://x.com/kiluyu__",
+                    "instagram_url": "https://www.instagram.com/chiastagram_0906/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "ゆうれい商店街",
+            "artist": "O'CHAWANZ,3776",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "O'CHAWANZ",
+                    "twitter_url": "https://x.com/O_CHAWANZ",
+                    "instagram_url": "https://www.instagram.com/secondfactory.jp/"
+                },
+                {
+                    "artist_name": "3776",
+                    "twitter_url": "https://x.com/minanaro3776",
+                    "instagram_url": "https://www.instagram.com/3776chiyono/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "染まってゆく",
+            "artist": "FAREWELL, MY D.u.b",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": []
+        }
+    ]
+}

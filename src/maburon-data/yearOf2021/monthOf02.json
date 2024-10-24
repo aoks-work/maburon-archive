@@ -1,0 +1,69 @@
+{
+    "month": "2",
+    "podcastUrl": "https://open.spotify.com/embed/episode/01CKgCSTty081MFRiICgyl?si=1cb15e8283ac4506?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/46SGNnDOV7xvVJ5jDqE8r4?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Juicy Fruity Lady",
+            "artist": "佐々木喫茶,頓知気さきな",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "佐々木喫茶",
+                    "twitter_url": "https://x.com/sasakikissa",
+                    "instagram_url": ""
+                },
+                {
+                    "artist_name": "頓知気さきな",
+                    "twitter_url": "https://x.com/tonchiki_doll",
+                    "instagram_url": "https://www.instagram.com/arigato_v/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "U・S",
+            "artist": "鈴鹿詩子",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "鈴鹿詩子",
+                    "twitter_url": "https://x.com/suzukautako",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "愛わずらい",
+            "artist": "文坂なの",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "文坂なの",
+                    "twitter_url": "https://x.com/ayasaka_nano",
+                    "instagram_url": "https://www.instagram.com/ayasaka_nano/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "フォークソング",
+            "artist": "リルネード",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "リルネード",
+                    "twitter_url": "https://x.com/rirunede",
+                    "instagram_url": ""
+                }
+            ]
+        }
+    ]
+}

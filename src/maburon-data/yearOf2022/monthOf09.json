@@ -1,0 +1,71 @@
+{
+    "month": "9",
+    "podcastUrl": "https://open.spotify.com/embed/episode/59FLDMB2PeinRZ33gPIDM3?si=d37c2452661e4868?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/04X4Abi5AHD7qVtcU6xuJf?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Sunset Summer Fever",
+            "artist": " L!PP(from Hello! Project Dance Team)",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": []
+        },
+        {
+            "number": 2,
+            "track_name": "時雨TIME",
+            "artist": "Mameyudoufu,武井麻里子",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Mameyudoufu",
+                    "twitter_url": "https://x.com/mameyudoufu",
+                    "instagram_url": ""
+                },
+                {
+                    "artist_name": "武井麻里子",
+                    "twitter_url": "https://x.com/mmmr_i",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "Sunset Samsara",
+            "artist": "CIRGO GRINCO",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": []
+        },
+        {
+            "number": 4,
+            "track_name": "優しさの残り香",
+            "artist": "メゾンヲテラ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "メゾンヲテラ",
+                    "twitter_url": "https://x.com/maisonoterra",
+                    "instagram_url": "https://www.instagram.com/maisonoterra/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "ナイトランナー",
+            "artist": "十六夜ポラリス",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "十六夜ポラリス",
+                    "twitter_url": "https://x.com/izayoipolaris",
+                    "instagram_url": ""
+                }
+            ]
+        }
+    ]
+}

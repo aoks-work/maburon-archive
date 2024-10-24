@@ -1,0 +1,83 @@
+{
+    "month": "3",
+    "podcastUrl": "https://open.spotify.com/embed/episode/3UkRCyuQHnKXoihb9hXjXk?si=17f0a7090a354de1?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/0O1McMDaiozA4GRmz9fBFN?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "You Can Make Me Dance",
+            "artist": "花澤香菜",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "花澤香菜",
+                    "twitter_url": "https://x.com/hanazawa_staff",
+                    "instagram_url": "https://www.instagram.com/hanazawa_kana.official/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "THIS IS MY STYLE",
+            "artist": "O'CHAWANZ,METEOR",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "O'CHAWANZ",
+                    "twitter_url": "https://x.com/O_CHAWANZ",
+                    "instagram_url": "https://www.instagram.com/secondfactory.jp/"
+                },
+                {
+                    "artist_name": "METEOR",
+                    "twitter_url": "https://x.com/METEORFUNKARATT",
+                    "instagram_url": "https://www.instagram.com/meteorfunkaratt/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "KaMoMe",
+            "artist": "nuance",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "nuance",
+                    "twitter_url": "https://x.com/nuance_official",
+                    "instagram_url": "https://www.instagram.com/official_nuance/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "セピア色メモリー",
+            "artist": "YORUWAKOREKARA",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "YORUWAKOREKARA",
+                    "twitter_url": "https://x.com/yorukore_unei",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "だいしきゅーだいしゅき",
+            "artist": "femme fatale",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "femme fatale",
+                    "twitter_url": "https://x.com/femme_iDOL",
+                    "instagram_url": ""
+                }
+            ]
+        }
+    ]
+}

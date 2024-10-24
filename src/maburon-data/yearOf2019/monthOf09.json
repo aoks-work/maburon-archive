@@ -1,0 +1,69 @@
+{
+    "month": "9",
+    "podcastUrl": "https://open.spotify.com/embed/episode/0A2rBiljJ7JM2799c8rEyF?si=79c8020519624e95?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/24pxT2mhkq8cpBnHOB0eDa?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Over Dubbing",
+            "artist": "lyrical school",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "lyrical school",
+                    "twitter_url": "https://x.com/lyri_sch",
+                    "instagram_url": "https://www.instagram.com/lyricalschool/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "月夜の森で",
+            "artist": "connie,弓木英梨乃",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "connie",
+                    "twitter_url": "https://x.com/RunoDaviau",
+                    "instagram_url": ""
+                },
+                {
+                    "artist_name": "弓木英梨乃",
+                    "twitter_url": "https://x.com/yumikierino",
+                    "instagram_url": "https://www.instagram.com/erino_yumiki/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "ねぇ、ローファー。",
+            "artist": "桜エビ~ず",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "桜エビ~ず",
+                    "twitter_url": "https://x.com/ukka_music",
+                    "instagram_url": "https://www.instagram.com/_ukka_official/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "君も好きだったんだね、夏",
+            "artist": "寺嶋由芙",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "寺嶋由芙",
+                    "twitter_url": "https://x.com/yufu_0708",
+                    "instagram_url": "https://www.instagram.com/yufu_terashima/"
+                }
+            ]
+        }
+    ]
+}

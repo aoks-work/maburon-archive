@@ -1,0 +1,64 @@
+{
+    "month": "2",
+    "podcastUrl": "https://open.spotify.com/embed/episode/7nP6FpowLbWdrKtKuhggDP?si=3ef8926a58c44d59?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/4VHWld00BD5YGORKHxUFIb?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "輝きin my love",
+            "artist": "文坂なの",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "文坂なの",
+                    "twitter_url": "https://x.com/ayasaka_nano",
+                    "instagram_url": "https://www.instagram.com/ayasaka_nano/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Voice In Space",
+            "artist": "まちだガールズ・クワイア",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "まちだガールズ・クワイア",
+                    "twitter_url": "https://x.com/MGC_Office",
+                    "instagram_url": "https://www.instagram.com/mgc_office/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "真夜中のメリーゴーランド",
+            "artist": "鈴木愛理",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "鈴木愛理",
+                    "twitter_url": "https://x.com/airimania",
+                    "instagram_url": "https://www.instagram.com/airisuzuki_official_uf"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "夢の中に連れてって",
+            "artist": "東京女子流",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "東京女子流",
+                    "twitter_url": "https://x.com/TokyoGirlsStyle",
+                    "instagram_url": "https://www.instagram.com/tokyogirlsstyle/"
+                }
+            ]
+        }
+    ]
+}

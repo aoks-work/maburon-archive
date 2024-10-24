@@ -1,0 +1,69 @@
+{
+    "month": "10",
+    "podcastUrl": "https://open.spotify.com/embed/episode/1h00w3IuKtsrA1TAeODTZT?si=b3d53a23507f40fd?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/79yF7jIEqCDXTyKijMjF7z?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "射抜け!Midnight",
+            "artist": "Nao☆",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Nao☆",
+                    "twitter_url": "https://x.com/Nao_NGC",
+                    "instagram_url": "https://www.instagram.com/nao_ngc/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "CITY",
+            "artist": "降幡 愛",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "降幡 愛",
+                    "twitter_url": "https://x.com/furihata_ai",
+                    "instagram_url": "https://www.instagram.com/furihatagram/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "ドント・ストップ・ザ・ダンス",
+            "artist": "フィロソフィーのダンス",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "フィロソフィーのダンス",
+                    "twitter_url": "https://x.com/DFP_2015",
+                    "instagram_url": "https://www.instagram.com/dance_for_philosophy/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "ドント・ストップ・ザ・ダンス",
+            "artist": "フィロソフィーのダンス,DEZOLVE",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "フィロソフィーのダンス",
+                    "twitter_url": "https://x.com/DFP_2015",
+                    "instagram_url": "https://www.instagram.com/dance_for_philosophy/"
+                },
+                {
+                    "artist_name": "DEZOLVE",
+                    "twitter_url": "https://x.com/dezolve_ofc",
+                    "instagram_url": "https://www.instagram.com/dezolve_official/"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "month": "9",
+    "podcastUrl": "https://open.spotify.com/embed/episode/39NKjWD0tyVv75nVkoumjO?si=69461d35fa0f4e9d?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/3BJbfU7c5q1ts3sXTNKoSW?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Club Moon",
+            "artist": "femme fatale",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "femme fatale",
+                    "twitter_url": "https://x.com/femme_iDOL",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Baby Girl",
+            "artist": "塚本舞",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "塚本舞",
+                    "twitter_url": "https://x.com/mai_tsukamoto",
+                    "instagram_url": "https://www.instagram.com/maipuni/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "SHOWER",
+            "artist": "武藤彩未",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "武藤彩未",
+                    "twitter_url": "https://x.com/_mutoayami_",
+                    "instagram_url": "https://www.instagram.com/_mutoayami_/"
+                }
+            ]
+        }
+    ]
+}

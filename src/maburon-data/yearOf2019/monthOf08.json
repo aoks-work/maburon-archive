@@ -1,0 +1,83 @@
+{
+    "month": "8",
+    "podcastUrl": "https://open.spotify.com/embed/episode/6PC3vlAHLu6eoPwea6H4FA?si=e4aeb0b468604832?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/2I9Tjqxakis1S4MtI2PCjF?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "エスパドリーユでつかまえて",
+            "artist": "脇田もなり",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "脇田もなり",
+                    "twitter_url": "https://x.com/MonariWakita",
+                    "instagram_url": "https://www.instagram.com/monariwakita/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Zozoi",
+            "artist": "SOLEIL",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "SOLEIL",
+                    "twitter_url": "https://x.com/soleiltokyo",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "Find you",
+            "artist": "minan",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "minan",
+                    "twitter_url": "https://x.com/Minan1205",
+                    "instagram_url": "https://www.instagram.com/_manybooks_/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "闇色の朝_",
+            "artist": "Maison book girl",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Maison book girl",
+                    "twitter_url": "https://x.com/maisonbookgirl",
+                    "instagram_url": "https://www.instagram.com/maison_book_girl/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "イッツ・マイ・ターン - T-Groove Remix",
+            "artist": "フィロソフィーのダンス,T-Groove",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "フィロソフィーのダンス",
+                    "twitter_url": "https://x.com/DFP_2015",
+                    "instagram_url": "https://www.instagram.com/dance_for_philosophy/"
+                },
+                {
+                    "artist_name": "T-Groove",
+                    "twitter_url": "https://x.com/tgroovemusic",
+                    "instagram_url": "https://www.instagram.com/yukitgroove/"
+                }
+            ]
+        }
+    ]
+}

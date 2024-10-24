@@ -1,0 +1,78 @@
+{
+    "month": "2",
+    "podcastUrl": "https://open.spotify.com/embed/episode/5esWVJU9TKpFjttsASifJk?si=49438f2ffc62429b?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/2bpSfSAd9Zk6rXRdlTaKZN?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "微弱的流動",
+            "artist": "Kaede",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Kaede",
+                    "twitter_url": "https://x.com/Kaede_NGC",
+                    "instagram_url": "https://www.instagram.com/kaede_ngc/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "変身",
+            "artist": "SAKA-SAMA",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "SAKA-SAMA",
+                    "twitter_url": "https://x.com/sakasama_info",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "スバラ",
+            "artist": "カメトレ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "カメトレ",
+                    "twitter_url": "https://x.com/info_cametre",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "ネクストドア。",
+            "artist": "CY8ER",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "CY8ER",
+                    "twitter_url": "https://x.com/cy8erinfo",
+                    "instagram_url": "https://www.instagram.com/cy8erofficial/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "は抱えたままで",
+            "artist": "さっきの女の子、",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "さっきの女の子、",
+                    "twitter_url": "https://x.com/InfoSakijo",
+                    "instagram_url": "https://www.instagram.com/sakijo_official/"
+                }
+            ]
+        }
+    ]
+}

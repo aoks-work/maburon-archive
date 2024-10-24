@@ -1,0 +1,166 @@
+{
+    "month": "8",
+    "podcastUrl": "https://open.spotify.com/embed/episode/2zhtVb8tgsaPKwN6iFoUEq?si=ed59f6cd2cc54780?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/4P8d3tYsAZCWDBSoPA25HM?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "La Shangri La",
+            "artist": "脇田もなり",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "脇田もなり",
+                    "twitter_url": "https://x.com/MonariWakita",
+                    "instagram_url": "https://www.instagram.com/monariwakita/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Electric Love",
+            "artist": "jubilee jubilee",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "jubilee jubilee",
+                    "twitter_url": "https://x.com/jubileejubilee",
+                    "instagram_url": "https://www.instagram.com/jubileejubilee_official/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "ハイファイ・スタイル",
+            "artist": "文坂なの",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "文坂なの",
+                    "twitter_url": "https://x.com/ayasaka_nano",
+                    "instagram_url": "https://www.instagram.com/ayasaka_nano/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "スペキュラティブ",
+            "artist": "みいらみさと",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "みいらみさと",
+                    "twitter_url": "https://x.com/miira_gg",
+                    "instagram_url": "https://www.instagram.com/miiramisato"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "うらぎりもの",
+            "artist": "RYUTist,Shun Ishiwaka",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "RYUTist",
+                    "twitter_url": "https://x.com/RYUTist_info",
+                    "instagram_url": "https://www.instagram.com/ryutist_info/"
+                },
+                {
+                    "artist_name": "Shun Ishiwaka",
+                    "twitter_url": "https://x.com/shunishiwaka",
+                    "instagram_url": "https://www.instagram.com/shun_ishiwaka/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "Last of Z",
+            "artist": "CIRGO GRINCO",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": []
+        },
+        {
+            "number": 7,
+            "track_name": "VICTORY",
+            "artist": "MAINAMIND,Ryozo Band",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MAINAMIND",
+                    "twitter_url": "https://x.com/mainamind24",
+                    "instagram_url": "https://www.instagram.com/mainamind_/"
+                },
+                {
+                    "artist_name": "Ryozo Band",
+                    "twitter_url": "https://x.com/ryo338",
+                    "instagram_url": "https://www.instagram.com/ryozo_obayashi/"
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "track_name": "完食",
+            "artist": "fishbowl",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "fishbowl",
+                    "twitter_url": "https://x.com/fishbowl2021",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "track_name": "コーナーカット・メモリーズ",
+            "artist": "東京女子流",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "東京女子流",
+                    "twitter_url": "https://x.com/TokyoGirlsStyle",
+                    "instagram_url": "https://www.instagram.com/tokyogirlsstyle/"
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "track_name": "この雨が上がっても",
+            "artist": "東京女子流",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "東京女子流",
+                    "twitter_url": "https://x.com/TokyoGirlsStyle",
+                    "instagram_url": "https://www.instagram.com/tokyogirlsstyle/"
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "track_name": "りぴりぴ",
+            "artist": "erewhon",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "erewhon",
+                    "twitter_url": "https://x.com/erewhon_npro",
+                    "instagram_url": ""
+                }
+            ]
+        }
+    ]
+}

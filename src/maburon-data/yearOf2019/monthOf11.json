@@ -1,0 +1,50 @@
+{
+    "month": "11",
+    "podcastUrl": "https://open.spotify.com/embed/episode/2KvyRoC3mUXekcHZPAx0bA?si=d2f91c7beac64356?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/74zRaAagbdtM20NNMc2THU?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "皆笑った",
+            "artist": "星野みちる",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "星野みちる",
+                    "twitter_url": "https://x.com/michiru1119",
+                    "instagram_url": "https://www.instagram.com/hoshinomichiru/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "菫アイオライト",
+            "artist": "WHY@DOLL",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "WHY@DOLL",
+                    "twitter_url": "https://x.com/whydoll2014",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "Never let me back",
+            "artist": "RYUTist",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "RYUTist",
+                    "twitter_url": "https://x.com/RYUTist_info",
+                    "instagram_url": "https://www.instagram.com/ryutist_info/"
+                }
+            ]
+        }
+    ]
+}

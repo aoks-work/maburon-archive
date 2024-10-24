@@ -1,0 +1,64 @@
+{
+    "month": "8",
+    "podcastUrl": "https://open.spotify.com/embed/episode/0YpkQs8kmgwD3GtF1COH6u?si=3c9b97059fe04c0c?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/78188B9rFdU4DwFGy8D2Ds?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "ダブル・スタンダード",
+            "artist": "フィロソフィーのダンス",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "フィロソフィーのダンス",
+                    "twitter_url": "https://x.com/DFP_2015",
+                    "instagram_url": "https://www.instagram.com/dance_for_philosophy/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Find Me Out",
+            "artist": "鞘師里保",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "鞘師里保",
+                    "twitter_url": "https://x.com/sayashi_staff",
+                    "instagram_url": "https://www.instagram.com/riho_sayashi_insta/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "えっちなこと",
+            "artist": "木下 百花",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "木下 百花",
+                    "twitter_url": "https://x.com/wanderlandlove",
+                    "instagram_url": "https://www.instagram.com/knstmmk/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "juvenile",
+            "artist": "jubilee jubilee",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "jubilee jubilee",
+                    "twitter_url": "https://x.com/jubileejubilee",
+                    "instagram_url": "https://www.instagram.com/jubileejubilee_official/"
+                }
+            ]
+        }
+    ]
+}

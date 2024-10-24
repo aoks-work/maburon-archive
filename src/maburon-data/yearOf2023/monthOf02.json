@@ -1,0 +1,97 @@
+{
+    "month": "2",
+    "podcastUrl": "https://open.spotify.com/embed/episode/3H1GQiYftvODNa89Zmla4Y?si=e0c2b60a1dfa439b?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/5ZiSAtf1zrQ4OejlPhghaY?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "もなりの8ビート",
+            "artist": "脇田もなり",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "脇田もなり",
+                    "twitter_url": "https://x.com/MonariWakita",
+                    "instagram_url": "https://www.instagram.com/monariwakita/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "LATE SHOW",
+            "artist": "文坂なの",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "文坂なの",
+                    "twitter_url": "https://x.com/ayasaka_nano",
+                    "instagram_url": "https://www.instagram.com/ayasaka_nano/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "ホログラム",
+            "artist": "Nao☆",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Nao☆",
+                    "twitter_url": "https://x.com/Nao_NGC",
+                    "instagram_url": "https://www.instagram.com/nao_ngc/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "Starry Rain",
+            "artist": "宮野弦士,HALLCA",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "宮野弦士",
+                    "twitter_url": "https://x.com/GentoMiyano",
+                    "instagram_url": "https://www.instagram.com/gentomiyano/"
+                },
+                {
+                    "artist_name": "HALLCA",
+                    "twitter_url": "https://x.com/hallca__jp",
+                    "instagram_url": "https://www.instagram.com/hallca__jp/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "NEW WORLD",
+            "artist": "lyrical school",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "lyrical school",
+                    "twitter_url": "https://x.com/lyri_sch",
+                    "instagram_url": "https://www.instagram.com/lyricalschool/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "4 - NO WAVE",
+            "artist": "AIR-CON BOOM BOOM ONESAN",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "AIR-CON BOOM BOOM ONESAN",
+                    "twitter_url": "https://x.com/shinchikunoinu",
+                    "instagram_url": "https://www.instagram.com/genmary6/"
+                }
+            ]
+        }
+    ]
+}

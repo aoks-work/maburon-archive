@@ -1,0 +1,50 @@
+{
+    "month": "9",
+    "podcastUrl": "https://open.spotify.com/embed/episode/3vhkDeui9e1F4KKbZTtN9c?si=e7a72410931c4d5c?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/2wJnjTwr53KmpSrPzdZiGO?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "Racket Love",
+            "artist": "カノサレ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "カノサレ",
+                    "twitter_url": "https://x.com/kanosare",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "レモンシャーベット・ハニー",
+            "artist": "S-QTY:R",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "S-QTY:R",
+                    "twitter_url": "",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "イッツ・マイ・ターン",
+            "artist": "フィロソフィーのダンス",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "フィロソフィーのダンス",
+                    "twitter_url": "https://x.com/DFP_2015",
+                    "instagram_url": "https://www.instagram.com/dance_for_philosophy/"
+                }
+            ]
+        }
+    ]
+}

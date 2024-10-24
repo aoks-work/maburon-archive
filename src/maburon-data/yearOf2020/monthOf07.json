@@ -1,0 +1,69 @@
+{
+    "month": "7",
+    "podcastUrl": "https://open.spotify.com/embed/episode/6Gec3ajpfV5DvuxlVvKGer?si=116a28bbf4c1428f?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/7b9bdFyreLgMfurcajixEm?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "無重力ファンタジア",
+            "artist": "RYUTist",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "RYUTist",
+                    "twitter_url": "https://x.com/RYUTist_info",
+                    "instagram_url": "https://www.instagram.com/ryutist_info/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "時間だよ",
+            "artist": "RYUTist,Kan Sano",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "RYUTist",
+                    "twitter_url": "https://x.com/RYUTist_info",
+                    "instagram_url": "https://www.instagram.com/ryutist_info/"
+                },
+                {
+                    "artist_name": "Kan Sano",
+                    "twitter_url": "https://x.com/kansano",
+                    "instagram_url": "https://www.instagram.com/k.an.s.an.o/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "SHINEMAGIC",
+            "artist": "ZOC",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ZOC",
+                    "twitter_url": "https://x.com/___zoc___",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "After Five",
+            "artist": "O'CHAWANZ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "O'CHAWANZ",
+                    "twitter_url": "https://x.com/O_CHAWANZ",
+                    "instagram_url": "https://www.instagram.com/secondfactory.jp/"
+                }
+            ]
+        }
+    ]
+}

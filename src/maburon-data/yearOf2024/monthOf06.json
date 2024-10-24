@@ -1,0 +1,162 @@
+{
+    "month": "6",
+    "podcastUrl": "https://open.spotify.com/embed/episode/1ApuG2Yg8twffz1tkiB90v?si=580cc9ca33224386?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/71mGAeu1k5j9dFXtjFBOf7?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "フックの法則",
+            "artist": "BEYOOOOONDS",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "BEYOOOOONDS",
+                    "twitter_url": "https://x.com/BEYOOOOONDS_",
+                    "instagram_url": "https://www.instagram.com/beyooooonds_official/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "Go City Go",
+            "artist": "BEYOOOOONDS",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "BEYOOOOONDS",
+                    "twitter_url": "https://x.com/BEYOOOOONDS_",
+                    "instagram_url": "https://www.instagram.com/beyooooonds_official/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "灰toダイヤモンド",
+            "artist": "BEYOOOOONDS",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "BEYOOOOONDS",
+                    "twitter_url": "https://x.com/BEYOOOOONDS_",
+                    "instagram_url": "https://www.instagram.com/beyooooonds_official/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "うわさのナルシー",
+            "artist": "アンジュルム",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "アンジュルム",
+                    "twitter_url": "https://x.com/angerme_upfront",
+                    "instagram_url": "https://www.instagram.com/angerme_official/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "真夏のリュミエール",
+            "artist": "文坂なの",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "文坂なの",
+                    "twitter_url": "https://x.com/ayasaka_nano",
+                    "instagram_url": "https://www.instagram.com/ayasaka_nano/"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "The Light",
+            "artist": "Perfume",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Perfume",
+                    "twitter_url": "https://x.com/Perfume_Staff",
+                    "instagram_url": "https://www.instagram.com/prfm_official/"
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "track_name": "Calling",
+            "artist": "武藤彩未",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "武藤彩未",
+                    "twitter_url": "https://x.com/_mutoayami_",
+                    "instagram_url": "https://www.instagram.com/_mutoayami_/"
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "track_name": "atmosphere",
+            "artist": "usabeni",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "usabeni",
+                    "twitter_url": "https://x.com/usakura_beni",
+                    "instagram_url": "https://www.instagram.com/usabeni_/"
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "track_name": "セカンド・ブルー・アワー",
+            "artist": "降幡 愛",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "降幡 愛",
+                    "twitter_url": "https://x.com/furihata_ai",
+                    "instagram_url": "https://www.instagram.com/furihatagram/"
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "track_name": "WOOT!",
+            "artist": "RYUTist",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "RYUTist",
+                    "twitter_url": "https://x.com/RYUTist_info",
+                    "instagram_url": "https://www.instagram.com/ryutist_info/"
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "track_name": "ドラマチックバケーション",
+            "artist": "さよならステイチューン",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "さよならステイチューン",
+                    "twitter_url": "https://x.com/sayostay",
+                    "instagram_url": "https://www.instagram.com/sayostay/"
+                }
+            ]
+        }
+    ]
+}

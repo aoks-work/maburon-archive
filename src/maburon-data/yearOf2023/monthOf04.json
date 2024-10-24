@@ -1,0 +1,111 @@
+{
+    "month": "4",
+    "podcastUrl": "https://open.spotify.com/embed/episode/7wBGGczhbUJO3nXrDWU9T2?si=250dfe658d53475a?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/4vNRyRMXJDCAOBqobv0dQg?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "悠久の星",
+            "artist": "Nao☆",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Nao☆",
+                    "twitter_url": "https://x.com/Nao_NGC",
+                    "instagram_url": "https://www.instagram.com/nao_ngc/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "ローマでチャオ",
+            "artist": "Wink Music Service,アンジーひより",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "Wink Music Service",
+                    "twitter_url": "",
+                    "instagram_url": ""
+                },
+                {
+                    "artist_name": "アンジーひより",
+                    "twitter_url": "https://x.com/Angie85002281",
+                    "instagram_url": "https://www.instagram.com/a.hiyori_0407/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "シモキタ☆ブルース",
+            "artist": "桐生ちあり",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "桐生ちあり",
+                    "twitter_url": "https://x.com/kiluyu__",
+                    "instagram_url": "https://www.instagram.com/chiastagram_0906/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "プラスティック・ジェネレーション",
+            "artist": "佐藤優樹",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "佐藤優樹",
+                    "twitter_url": "https://x.com/masaki_staff",
+                    "instagram_url": "https://www.instagram.com/sato.masaki/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "Batabata Morning",
+            "artist": "AMEFURASSHI",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "AMEFURASSHI",
+                    "twitter_url": "https://x.com/amefurasshi",
+                    "instagram_url": "https://www.instagram.com/amefurasshi_official"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "track_name": "kyo-do?",
+            "artist": "私立恵比寿中学",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "私立恵比寿中学",
+                    "twitter_url": "https://x.com/ebichu_staff",
+                    "instagram_url": "https://www.instagram.com/shiritsuebisuchugaku/"
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "track_name": "STELLA - Boogie A Little Bit Closer “Drumless” Remix",
+            "artist": "FAREWELL, MY L.u.v,LIL’OGI",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "LIL’OGI",
+                    "twitter_url": "https://x.com/lilogi_4_kpp",
+                    "instagram_url": ""
+                }
+            ]
+        }
+    ]
+}

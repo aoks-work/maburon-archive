@@ -1,0 +1,64 @@
+{
+    "month": "3",
+    "podcastUrl": "https://open.spotify.com/embed/episode/1p4JVW7nSGRGubQeAwrmlU?si=513d550fe12a41d2?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/5Pm1GOBsPcSl5V4aHzGSPS?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "ヴィーナス",
+            "artist": "ゴクドルズ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ゴクドルズ",
+                    "twitter_url": "",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "KAIJU NIGHT",
+            "artist": "MONSTER GIRLFRIEND",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MONSTER GIRLFRIEND",
+                    "twitter_url": "",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "曇天",
+            "artist": "私立恵比寿中学",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "私立恵比寿中学",
+                    "twitter_url": "https://x.com/ebichu_staff",
+                    "instagram_url": "https://www.instagram.com/shiritsuebisuchugaku/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "B.L.A.C.K.H.O.L.E",
+            "artist": "私立恵比寿中学",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "私立恵比寿中学",
+                    "twitter_url": "https://x.com/ebichu_staff",
+                    "instagram_url": "https://www.instagram.com/shiritsuebisuchugaku/"
+                }
+            ]
+        }
+    ]
+}

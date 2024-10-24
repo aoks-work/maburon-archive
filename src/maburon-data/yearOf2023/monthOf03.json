@@ -1,0 +1,78 @@
+{
+    "month": "3",
+    "podcastUrl": "https://open.spotify.com/embed/episode/2WYD8AtX7czdMYObVMO3if?si=add8e18eca2d4445?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/1czhqAr7oUfIge4HgYLSwt?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "I Can’t Stop Loving You",
+            "artist": "MAINAMIND",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "MAINAMIND",
+                    "twitter_url": "https://x.com/mainamind24",
+                    "instagram_url": "https://www.instagram.com/mainamind_/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "太陽を盗んだ女",
+            "artist": "一色萌",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "一色萌",
+                    "twitter_url": "https://x.com/hiiro_moe",
+                    "instagram_url": "https://www.instagram.com/hiiro_moe/"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "Sunday",
+            "artist": "青山吉能",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "青山吉能",
+                    "twitter_url": "https://x.com/Yopipi555",
+                    "instagram_url": "https://www.instagram.com/yopipinsta555/"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "「派手！！！」",
+            "artist": "marble≠marble",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "marble≠marble",
+                    "twitter_url": "",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "ポジ子とネガ乃",
+            "artist": "フィロソフィーのダンス",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "フィロソフィーのダンス",
+                    "twitter_url": "https://x.com/DFP_2015",
+                    "instagram_url": "https://www.instagram.com/dance_for_philosophy/"
+                }
+            ]
+        }
+    ]
+}

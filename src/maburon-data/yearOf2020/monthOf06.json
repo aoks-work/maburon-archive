@@ -1,0 +1,78 @@
+{
+    "month": "6",
+    "podcastUrl": "https://open.spotify.com/embed/episode/7jLf2WAHdfhT6gshE8pFN4?si=1e9b43aa00d14fd9?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/4k3nilXxyWL66ZaaXmk0ae?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "恋、いちばんめ",
+            "artist": "ukka",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ukka",
+                    "twitter_url": "https://x.com/ukka_music",
+                    "instagram_url": "https://www.instagram.com/_ukka_official/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "すき、いまあいたい",
+            "artist": "simpatix",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "simpatix",
+                    "twitter_url": "https://x.com/simp_tix",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "恋してBaby!",
+            "artist": "天野なつ",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "天野なつ",
+                    "twitter_url": "https://x.com/natsu_amano",
+                    "instagram_url": "https://www.instagram.com/natsu_amano"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "生でんぱ",
+            "artist": "でんぱ組.inc",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "でんぱ組.inc",
+                    "twitter_url": "https://x.com/dempagumi",
+                    "instagram_url": "https://www.instagram.com/dempagumi.official/"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "track_name": "Twisted Rainbow",
+            "artist": "HALLCA",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "HALLCA",
+                    "twitter_url": "https://x.com/hallca__jp",
+                    "instagram_url": "https://www.instagram.com/hallca__jp/"
+                }
+            ]
+        }
+    ]
+}

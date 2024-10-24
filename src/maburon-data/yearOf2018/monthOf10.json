@@ -1,0 +1,64 @@
+{
+    "month": "10",
+    "podcastUrl": "https://open.spotify.com/embed/episode/3yDI1s3ZFvMLU4bjcBq2OB?si=d81d3a77819e494e?utm_source=generator",
+    "bubkaUrl": "",
+    "playlistUrl": "https://open.spotify.com/embed/playlist/52Moy3OlO0nzqef0E6ZUs2?utm_source=generator",
+    "track_list": [
+        {
+            "number": 1,
+            "track_name": "君にトロピタイナ",
+            "artist": "寺嶋由芙",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "寺嶋由芙",
+                    "twitter_url": "https://x.com/yufu_0708",
+                    "instagram_url": "https://www.instagram.com/yufu_terashima/"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "track_name": "ハロー！ヒストリー",
+            "artist": "ハロプロ・オールスターズ",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "ハロプロ・オールスターズ",
+                    "twitter_url": "",
+                    "instagram_url": ""
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "track_name": "LEMON PEELS",
+            "artist": "あヴぁんだんど",
+            "is_subscribe": "✕",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "あヴぁんだんど",
+                    "twitter_url": "https://x.com/avandoned_idol",
+                    "instagram_url": "https://www.instagram.com/avandoned_official"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "track_name": "ロマンティックなサヨナラ/アンダーガールズ",
+            "artist": "NMB48",
+            "is_subscribe": "◯",
+            "youtubeUrl": "",
+            "artist_link": [
+                {
+                    "artist_name": "NMB48",
+                    "twitter_url": "https://x.com/nmb48_official",
+                    "instagram_url": "https://www.instagram.com/nmb48_official/"
+                }
+            ]
+        }
+    ]
+}

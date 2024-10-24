@@ -1,18 +1,16 @@
 import * as React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import * as styles from "../components/index.module.css"
+/*import * as styles from "../components/index.module.css" */
 import * as link_styles from "../components/link.module.css"
 
-const bubka_url = "https://www.amazon.co.jp/dp/B0DHV3FB9K"
 
-const IndexPage = ({ data }) => {
+const LatestPage = ({ data }) => {
   return (
-    <Layout>
-    <p>TBSラジオ「アフター6ジャンクション2」の最新アイドルソング的時評コーナー『マブ論』で紹介された楽曲のアーカイブを目的としたファンサイトです</p>
+  <Layout>
     {data.allMaburonDataJson.edges.map(({ node }) => (
         <div key={node.id} className="json-data">
           <h2>最新紹介楽曲【{node.month}月】</h2>
@@ -29,7 +27,7 @@ const IndexPage = ({ data }) => {
             ></iframe>
           </div>
           <div className={link_styles.bubka_link}>
-            <a href={bubka_url} target="_blank" rel="noopener noreferrer">bubkaコラムパックテキスト</a>
+            <a href={node.bubkaUrl} target="_blank" rel="noopener noreferrer">bubkaコラムパックテキスト</a>
           </div> {/* podcast playlist bubka */}
         <div> {/* 楽曲リスト */}
         {node.track_list.map((list) => (
@@ -72,7 +70,7 @@ const IndexPage = ({ data }) => {
       </div >  /*json-data */
     ))}
   </Layout> 
-)
+  )
 }
 
 export const new_data = graphql`
@@ -101,11 +99,7 @@ export const new_data = graphql`
   }
     }`
 
-/**
- * Head export to define metadata for the page
- *
- * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
- */
-export const Head = () => <Seo title="Home" />
 
-export default IndexPage
+export const Head = () => <Seo title="最新" />
+
+export default LatestPage
