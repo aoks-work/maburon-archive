@@ -13,68 +13,68 @@ const MonthlyPage = ({ data  }) => {
     <div className="monthsLink">
     <ul>
         <Link
+            className={link_styles.month}
             to="/discography/2019/2"
-            style={{textDecoration: `none`}}
         >
             <li>2月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2019/3"
-            style={{textDecoration: `none`}}
         >
             <li>3月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2019/4"
-            style={{textDecoration: `none`}}
         >
             <li>4月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2019/5"
-            style={{textDecoration: `none`}}
         >
             <li>5月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2019/6"
-            style={{textDecoration: `none`}}
         >
             <li>6月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2019/7"
-            style={{textDecoration: `none`}}
         >
             <li>7月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2019/8"
-            style={{textDecoration: `none`}}
         >
             <li>8月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2019/9"
-            style={{textDecoration: `none`}}
         >
             <li>9月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2019/10"
-            style={{textDecoration: `none`}}
         >
             <li>10月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2019/11"
-            style={{textDecoration: `none`}}
         >
             <li>11月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2019/11"
-            style={{textDecoration: `none`}}
         >
             <li>12月</li>
         </Link>

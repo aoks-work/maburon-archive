@@ -13,32 +13,32 @@ const MonthlyPage = ({ data  }) => {
     <div className="monthsLink">
     <ul>
         <Link
+            className={link_styles.month}
             to="/discography/2018/5"
-            style={{textDecoration: `none`}}
         >
             <li>5月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2018/6"
-            style={{textDecoration: `none`}}
         >
             <li>6月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2018/8"
-            style={{textDecoration: `none`}}
         >
             <li>8月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2018/9"
-            style={{textDecoration: `none`}}
         >
             <li>9月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2018/10"
-            style={{textDecoration: `none`}}
         >
             <li>10月</li>
         </Link>

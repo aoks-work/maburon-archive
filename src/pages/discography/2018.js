@@ -10,35 +10,35 @@ const archive_2018 = ({ data }) => {
     return(
   <Layout>
     <h2>2018年アーカイブ</h2>
-    <div className="monthsLink">
+    <div className={link_styles.monthLink}>
     <ul>
         <Link
+            className={link_styles.month}
             to="/discography/2018/5"
-            style={{textDecoration: `none`}}
         >
             <li>5月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2018/6"
-            style={{textDecoration: `none`}}
         >
             <li>6月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2018/8"
-            style={{textDecoration: `none`}}
         >
             <li>8月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2018/9"
-            style={{textDecoration: `none`}}
         >
             <li>9月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2018/10"
-            style={{textDecoration: `none`}}
         >
             <li>10月</li>
         </Link>
