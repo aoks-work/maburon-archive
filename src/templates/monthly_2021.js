@@ -10,7 +10,7 @@ const MonthlyPage = ({ data  }) => {
     return(
   <Layout>
         <h2>2021年アーカイブ</h2>
-    <div className="monthsLink">
+    <div className={link_styles.monthLink}>
     <ul>
         <Link
             className={link_styles.month}
@@ -80,7 +80,7 @@ const MonthlyPage = ({ data  }) => {
         </Link>
     </ul>
     </div> {/* monthsLink */}
-    <h3>{data.yearOf2021Json.month}月</h3>
+    <h3 className={link_styles.pageMonth}>{data.yearOf2021Json.month}月</h3>
     <div className={link_styles.podcast_link}>  {/* podcast playlist bubka */}
         <iframe
         src={data.yearOf2021Json.podcastUrl}
@@ -94,7 +94,7 @@ const MonthlyPage = ({ data  }) => {
         ></iframe>
     </div> {/* podcast playlist bubka */}
 
-    <div> {/* 楽曲リスト */}
+    <div className="json-data"> {/* 楽曲リスト */}
         {data.yearOf2021Json.track_list.map((list) => (
             <div className={link_styles.tracksInfo}>
                 <div key={list.number} className={link_styles.trackInfo}>

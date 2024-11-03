@@ -62,7 +62,7 @@ const MonthlyPage = ({ data  }) => {
         </Link>
     </ul>
     </div> {/* monthsLink */}
-    <h3>{data.yearOf2024Json.month}月</h3>
+    <h3 className={link_styles.pageMonth}>{data.yearOf2024Json.month}月</h3>
     <div className={link_styles.podcast_link}>  {/* podcast playlist bubka */}
         <iframe
         src={data.yearOf2024Json.podcastUrl}
@@ -81,7 +81,7 @@ const MonthlyPage = ({ data  }) => {
     }
     </div> {/* podcast playlist bubka */}
 
-    <div> {/* 楽曲リスト */}
+    <div className="json-data"> {/* 楽曲リスト */}
         {data.yearOf2024Json.track_list.map((list) => (
             <div className={link_styles.tracksInfo}>
                 <div key={list.number} className={link_styles.trackInfo}>

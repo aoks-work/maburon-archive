@@ -20,7 +20,7 @@
 }
 
 .tracksInfo {
-    border: solid 3px #CC3333;
+    border: solid 3px #E84288;
     margin-bottom: 10px;
     
 }
@@ -60,4 +60,21 @@ iframe {
 
 .month {
     text-decoration: none;
+}
+
+.month li{
+    font-size: 18px;
+}
+
+.pageMonth {
+    /* 下線 */
+    text-decoration: underline;
+    text-underline-offset: -0.15em;
+    text-decoration-thickness: 0.3em;
+    text-decoration-color: #E84288;
+    text-decoration-skip-ink: none;
+}
+
+.playlist_link {
+    margin-bottom: 30px;
 }

@@ -5,8 +5,7 @@ import * as styles from "./footer.module.css"
 const Footer = ({ siteTitle }) => (
   <footer className={styles.fixedFooter}>
     <div>
-     <div>マブ論アーカイブ</div>
-      <div>
+      <div  className={styles.footerMenu}>
         <ul>
           <Link
             className={styles.privacyPolicy}
@@ -14,8 +13,15 @@ const Footer = ({ siteTitle }) => (
           >
           <li>プライバシーポリシー</li>
           </Link>
+          <Link
+            className={styles.privacyPolicy}
+            to="/form"
+          >
+          <li>お問い合わせ</li>
+          </Link>
         </ul>
      </div>
+     <p  className={styles.footerTitle}>マブ論アーカイブ</p>
     </div>
   </footer>
 )

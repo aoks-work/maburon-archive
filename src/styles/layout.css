@@ -37,13 +37,17 @@ html {
   font-size: var(--font-md);
   line-height: var(--line-height-normal);
   overflow-y: scroll;
-  /*color: #F7F7F7; */
-  /*background-color: #000;*/
+  color: #F7F7F7;
+  background-color: #000;
 }
 
 h2 {
   text-align: left;
-  color: #CC3333;
+  color: #E84288;
+}
+
+h3 {
+  font-size: 30px;
 }
 
 .form-class iframe {
@@ -55,6 +59,45 @@ h2 {
   margin-bottom: 70px;
 }
 
+.twitter-info {
+  margin-right: 3px;
+}
+
+/* aboutページ */
+.siteName {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.authorInfo {
+  font-size: 26px;
+}
+
+.authorSnsLink {
+  margin-left: 10px;
+}
+
+.utamaruSnsLink {
+  color: #FFF;
+  text-decoration: underline;
+  text-underline-offset: -0.15em;
+  text-decoration-thickness: 0.3em;
+  text-decoration-color: #E84288;
+  text-decoration-skip-ink: none;
+}
+
+.formInfo {
+  font-size: 26px;
+}
+
+.formLink {
+  color: #FFF;
+  text-decoration: underline;
+  text-underline-offset: -0.15em;
+  text-decoration-thickness: 0.3em;
+  text-decoration-color: #E84288;
+  text-decoration-skip-ink: none;
+}
 /*
 body {
   -moz-osx-font-smoothing: grayscale;

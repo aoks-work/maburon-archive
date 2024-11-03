@@ -11,11 +11,11 @@ const RankingPage = ({ data }) => {
     return(
   <Layout>
     <h2>年間ランキング</h2>
-    <div className="monthsLink">
+    <div className={annual_styles.monthsLink}>
     {data.allTrackOfTheYearJson.edges.map(({ node }) => (
         <div key={node.index} className="ranking-data">
             <div>
-                <p className={annual_styles.year}>{node.year}</p>
+                <p className={annual_styles.year}><span className={annual_styles.border}>{node.year}</span></p>
                 <div>
                     <iframe
                         className={annual_styles.iframe}

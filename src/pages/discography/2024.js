@@ -62,7 +62,7 @@ const archive_2024 = ({ data }) => {
         </Link>
     </ul>
     </div> {/* monthsLink */}
-    <h3>2月</h3>
+    <h3 className={link_styles.pageMonth}>2月</h3>
     {data.allYearOf2024Json.edges.map(({ node }) => (
         <div key={node.id} className="json-data">
           <div className={link_styles.podcast_link}>  {/* podcast playlist bubka */}

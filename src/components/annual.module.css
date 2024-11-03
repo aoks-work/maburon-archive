@@ -2,10 +2,24 @@
     width: 600px;
     height: 200px;
     border-style: none;
+    margin-bottom: -20px;
   }
 
   .year {
     font-size: 30px;
     margin-top: 0px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
+    /* padding-bottom: 5px; */
+}
+
+.border {
+  /* border-bottom: solid; */
+  text-decoration: underline;
+  text-underline-offset: -0.15em;
+  text-decoration-thickness: 0.3em;
+  text-decoration-color: #E84288;
+  text-decoration-skip-ink: none;
+}
+.monthsLink {
+  margin-bottom: 50px;
 }

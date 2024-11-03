@@ -3,15 +3,7 @@ import { Link } from "gatsby"
 import * as styles from "./header.module.css"
 
 const Header = ({ siteTitle }) => (
-  <header
-    /* style={{
-      margin: `0 auto`,
-      padding: `var(--space-4) var(--size-gutter)`,
-      display: `flex`,
-      alignItems: `center`,
-      justifyContent: `space-between`,
-    }} */
-  >
+  <header>
     <div className={styles.title}>
       <Link
       className={styles.titleLink}

@@ -39,6 +39,7 @@ const LatestPage = ({ data }) => {
                       <div className={link_styles.artistName}>{link.artist_name}</div>
                       <div className={link_styles.snsInfo}>
                         <div className="twitter-info">
+                        {link.twitter_url !== "" &&
                           <a href={link.twitter_url} target="_blank" rel="noopener noreferrer">
                           <StaticImage
                           src="../images/icon-twitter.png"
@@ -48,8 +49,10 @@ const LatestPage = ({ data }) => {
                           style={{ width: `var(--static-image-width)`}}
                           />
                           </a>
+                        }
                         </div> {/* twitter-info */}
                         <div className="instagram-info">
+                        {link.instagram_url !== "" &&
                           <a href={link.instagram_url} target="_blank" rel="noopener noreferrer">
                           <StaticImage
                           src="../images/icon-instagram.png"
@@ -59,6 +62,7 @@ const LatestPage = ({ data }) => {
                           style={{ width: `var(--static-image-width)`}}
                           />
                           </a>
+                        }
                         </div> {/* instagram-info */}
                      </div> {/* sns-info */}
                     </div> /* artist-info */
