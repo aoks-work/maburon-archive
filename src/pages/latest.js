@@ -4,8 +4,8 @@ import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-/*import * as styles from "../components/index.module.css" */
 import * as link_styles from "../components/link.module.css"
+import * as index_styles from "../components/index.module.css"
 
 
 const LatestPage = ({ data }) => {
@@ -13,7 +13,7 @@ const LatestPage = ({ data }) => {
   <Layout>
     {data.allMaburonDataJson.edges.map(({ node }) => (
         <div key={node.id} className="json-data">
-          <h2>最新紹介楽曲【{node.month}月】</h2>
+          <h2 className={index_styles.heading2}>最新紹介楽曲【{node.month}月】</h2>
           <div className={link_styles.podcast_link}>  {/* podcast playlist bubka */}
             <iframe
             src={node.podcastUrl}
@@ -39,6 +39,7 @@ const LatestPage = ({ data }) => {
                       <div className={link_styles.artistName}>{link.artist_name}</div>
                       <div className={link_styles.snsInfo}>
                         <div className="twitter-info">
+                        {link.twitter_url !== "" &&
                           <a href={link.twitter_url} target="_blank" rel="noopener noreferrer">
                           <StaticImage
                           src="../images/icon-twitter.png"
@@ -48,8 +49,10 @@ const LatestPage = ({ data }) => {
                           style={{ width: `var(--static-image-width)`}}
                           />
                           </a>
+                        }
                         </div> {/* twitter-info */}
                         <div className="instagram-info">
+                        {link.instagram_url !== "" &&
                           <a href={link.instagram_url} target="_blank" rel="noopener noreferrer">
                           <StaticImage
                           src="../images/icon-instagram.png"
@@ -59,6 +62,7 @@ const LatestPage = ({ data }) => {
                           style={{ width: `var(--static-image-width)`}}
                           />
                           </a>
+                        }
                         </div> {/* instagram-info */}
                      </div> {/* sns-info */}
                     </div> /* artist-info */

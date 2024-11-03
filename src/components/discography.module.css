@@ -1,13 +1,14 @@
-h2 {
-    text-align: center;
-    color: #CC3333;
-}
-
 .year {
     font-size: 30px;
     text-decoration: none;
     margin-top: 20px;
     margin-bottom: 0px;
     display: block;
-    
+    color: #FFF;
+    /* 下線 */
+    text-decoration: underline;
+    text-underline-offset: -0.15em;
+    text-decoration-thickness: 0.3em;
+    text-decoration-color: #E84288;
+    text-decoration-skip-ink: none;
 }

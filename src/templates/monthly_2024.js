@@ -10,59 +10,59 @@ const MonthlyPage = ({ data  }) => {
     return(
   <Layout>
         <h2>2024年アーカイブ</h2>
-    <div className="monthsLink">
+    <div className={link_styles.monthLink}>
     <ul>
         <Link
+            className={link_styles.month}
             to="/discography/2024/2"
-            style={{textDecoration: `none`}}
         >
             <li>2月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2024/3"
-            style={{textDecoration: `none`}}
         >
             <li>3月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2024/4"
-            style={{textDecoration: `none`}}
         >
             <li>4月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2024/5"
-            style={{textDecoration: `none`}}
         >
             <li>5月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2024/6"
-            style={{textDecoration: `none`}}
         >
             <li>6月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2024/7"
-            style={{textDecoration: `none`}}
         >
             <li>7月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2024/8"
-            style={{textDecoration: `none`}}
         >
             <li>8月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2024/9"
-            style={{textDecoration: `none`}}
         >
             <li>9月</li>
         </Link>
     </ul>
     </div> {/* monthsLink */}
-    <h3>{data.yearOf2024Json.month}月</h3>
+    <h3 className={link_styles.pageMonth}>{data.yearOf2024Json.month}月</h3>
     <div className={link_styles.podcast_link}>  {/* podcast playlist bubka */}
         <iframe
         src={data.yearOf2024Json.podcastUrl}
@@ -81,7 +81,7 @@ const MonthlyPage = ({ data  }) => {
     }
     </div> {/* podcast playlist bubka */}
 
-    <div> {/* 楽曲リスト */}
+    <div className="json-data"> {/* 楽曲リスト */}
         {data.yearOf2024Json.track_list.map((list) => (
             <div className={link_styles.tracksInfo}>
                 <div key={list.number} className={link_styles.trackInfo}>

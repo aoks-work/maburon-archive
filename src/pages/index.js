@@ -1,11 +1,11 @@
 import * as React from "react"
-import { Link, graphql } from "gatsby"
+import {graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import * as styles from "../components/index.module.css"
 import * as link_styles from "../components/link.module.css"
+import * as styles from "../components/index.module.css"
 
 const bubka_url = "https://www.amazon.co.jp/dp/B0DHV3FB9K"
 
@@ -15,7 +15,7 @@ const IndexPage = ({ data }) => {
     <p>TBSラジオ「アフター6ジャンクション2」の最新アイドルソング的時評コーナー『マブ論』で紹介された楽曲のアーカイブを目的としたファンサイトです</p>
     {data.allMaburonDataJson.edges.map(({ node }) => (
         <div key={node.id} className="json-data">
-          <h2>最新紹介楽曲【{node.month}月】</h2>
+          <h2 className={styles.heading2}>最新紹介楽曲【{node.month}月】</h2>
           <div className={link_styles.podcast_link}>  {/* podcast playlist bubka */}
             <iframe
             src={node.podcastUrl}
@@ -41,6 +41,7 @@ const IndexPage = ({ data }) => {
                       <div className={link_styles.artistName}>{link.artist_name}</div>
                       <div className={link_styles.snsInfo}>
                         <div className="twitter-info">
+                        {link.twitter_url !== "" &&
                           <a href={link.twitter_url} target="_blank" rel="noopener noreferrer">
                           <StaticImage
                           src="../images/icon-twitter.png"
@@ -50,8 +51,10 @@ const IndexPage = ({ data }) => {
                           style={{ width: `var(--static-image-width)`}}
                           />
                           </a>
+                        }
                         </div> {/* twitter-info */}
                         <div className="instagram-info">
+                        {link.instagram_url !== "" &&
                           <a href={link.instagram_url} target="_blank" rel="noopener noreferrer">
                           <StaticImage
                           src="../images/icon-instagram.png"
@@ -61,6 +64,7 @@ const IndexPage = ({ data }) => {
                           style={{ width: `var(--static-image-width)`}}
                           />
                           </a>
+                        }
                         </div> {/* instagram-info */}
                      </div> {/* sns-info */}
                     </div> /* artist-info */

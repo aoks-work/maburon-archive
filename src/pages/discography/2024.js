@@ -10,59 +10,59 @@ const archive_2024 = ({ data }) => {
     return(
   <Layout>
     <h2>2024年アーカイブ</h2>
-    <div className="monthsLink">
+    <div className={link_styles.monthLink}>
     <ul>
         <Link
+            className={link_styles.month}
             to="/discography/2024/2"
-            style={{textDecoration: `none`}}
         >
             <li>2月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2024/3"
-            style={{textDecoration: `none`}}
         >
             <li>3月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2024/4"
-            style={{textDecoration: `none`}}
         >
             <li>4月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2024/5"
-            style={{textDecoration: `none`}}
         >
             <li>5月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2024/6"
-            style={{textDecoration: `none`}}
         >
             <li>6月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2024/7"
-            style={{textDecoration: `none`}}
         >
             <li>7月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2024/8"
-            style={{textDecoration: `none`}}
         >
             <li>8月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2024/9"
-            style={{textDecoration: `none`}}
         >
             <li>9月</li>
         </Link>
     </ul>
     </div> {/* monthsLink */}
-    <h3>2月</h3>
+    <h3 className={link_styles.pageMonth}>2月</h3>
     {data.allYearOf2024Json.edges.map(({ node }) => (
         <div key={node.id} className="json-data">
           <div className={link_styles.podcast_link}>  {/* podcast playlist bubka */}

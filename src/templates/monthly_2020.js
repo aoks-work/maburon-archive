@@ -10,71 +10,71 @@ const MonthlyPage = ({ data  }) => {
     return(
   <Layout>
         <h2>2020年アーカイブ</h2>
-    <div className="monthsLink">
+    <div className={link_styles.monthLink}>
     <ul>
         <Link
+            className={link_styles.month}
             to="/discography/2020/2"
-            style={{textDecoration: `none`}}
         >
             <li>2月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2020/3"
-            style={{textDecoration: `none`}}
         >
             <li>3月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2020/4"
-            style={{textDecoration: `none`}}
         >
             <li>4月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2020/6"
-            style={{textDecoration: `none`}}
         >
             <li>6月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2020/7"
-            style={{textDecoration: `none`}}
         >
             <li>7月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2020/8"
-            style={{textDecoration: `none`}}
         >
             <li>8月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2020/9"
-            style={{textDecoration: `none`}}
         >
             <li>9月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2020/10"
-            style={{textDecoration: `none`}}
         >
             <li>10月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2020/11"
-            style={{textDecoration: `none`}}
         >
             <li>11月</li>
         </Link>
         <Link
+            className={link_styles.month}
             to="/discography/2020/11"
-            style={{textDecoration: `none`}}
         >
             <li>12月</li>
         </Link>
     </ul>
     </div> {/* monthsLink */}
-    <h3>{data.yearOf2020Json.month}月</h3>
+    <h3 className={link_styles.pageMonth}>{data.yearOf2020Json.month}月</h3>
     <div className={link_styles.podcast_link}>  {/* podcast playlist bubka */}
         <iframe
         src={data.yearOf2020Json.podcastUrl}
@@ -88,7 +88,7 @@ const MonthlyPage = ({ data  }) => {
         ></iframe>
     </div> {/* podcast playlist bubka */}
 
-    <div> {/* 楽曲リスト */}
+    <div className="json-data"> {/* 楽曲リスト */}
         {data.yearOf2020Json.track_list.map((list) => (
             <div className={link_styles.tracksInfo}>
                 <div key={list.number} className={link_styles.trackInfo}>
