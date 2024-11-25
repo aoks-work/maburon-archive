@@ -71,7 +71,13 @@
             "artist": "FAREWELL, MY D.u.b",
             "is_subscribe": "◯",
             "youtubeUrl": "",
-            "artist_link": []
+            "artist_link": [
+                {
+                    "artist_name": "FAREWELL, MY D.u.b",
+                    "twitter_url": "https://x.com/farewellmyl_u_v",
+                    "instagram_url": "https://www.instagram.com/farewellmyluv/"
+                }
+            ]
         }
     ]
 }

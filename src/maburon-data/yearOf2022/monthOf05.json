@@ -24,7 +24,13 @@
             "artist": "CIRGO GRINCO",
             "is_subscribe": "◯",
             "youtubeUrl": "",
-            "artist_link": []
+            "artist_link": [
+                {
+                    "artist_name": "CIRGO GRINCO",
+                    "twitter_url": "https://x.com/CirgoGrinco",
+                    "instagram_url": "https://www.instagram.com/cirgo_grinco/"
+                }
+            ]
         },
         {
             "number": 3,

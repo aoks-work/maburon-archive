@@ -10,7 +10,13 @@
             "artist": "青野りえ",
             "is_subscribe": "◯",
             "youtubeUrl": "",
-            "artist_link": []
+            "artist_link": [
+                {
+                    "artist_name": "青野りえ",
+                    "twitter_url": "https://x.com/rie_aono",
+                    "instagram_url": "https://www.instagram.com/aonorie/"
+                }
+            ]
         },
         {
             "number": 2,
@@ -18,7 +24,13 @@
             "artist": "innes",
             "is_subscribe": "◯",
             "youtubeUrl": "",
-            "artist_link": []
+            "artist_link": [
+                {
+                    "artist_name": "innes",
+                    "twitter_url": "https://x.com/InnesOfficial",
+                    "instagram_url": ""
+                }
+            ]
         },
         {
             "number": 3,
