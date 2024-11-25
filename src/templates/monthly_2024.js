@@ -77,7 +77,9 @@ const MonthlyPage = ({ data  }) => {
     </div>
     <div className={link_styles.bubka_link}>
     {data.yearOf2024Json.bubkaUrl !== "" &&
-        <a href={data.yearOf2024Json.bubkaUrl} target="_blank" rel="noopener noreferrer">bubkaコラムパックテキスト</a>
+        <p>宇多丸さんのコラムが掲載している雑誌「BUBKA」では連載コラムのみをまとめたコラムパックがお得に販売されています。マブ論のコラムが読みたい方は
+        <a className={link_styles.column_link} href={data.yearOf2024Json.bubkaUrl} target="_blank" rel="noopener noreferrer">こちら</a>
+        がオススメ！！</p>
     }
     </div> {/* podcast playlist bubka */}
 

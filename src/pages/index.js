@@ -29,7 +29,11 @@ const IndexPage = ({ data }) => {
             ></iframe>
           </div>
           <div className={link_styles.bubka_link}>
-            <a href={bubka_url} target="_blank" rel="noopener noreferrer">bubkaコラムパックテキスト</a>
+          {node.bubkaUrl !== "" &&
+            <p>宇多丸さんのコラムが掲載している雑誌「BUBKA」では連載コラムのみをまとめたコラムパックがお得に販売されています。マブ論のコラムが読みたい方は
+              <a className={link_styles.column_link} href={node.bubkaUrl} target="_blank" rel="noopener noreferrer">こちら</a>
+            がオススメ！！</p>
+          }
           </div> {/* podcast playlist bubka */}
         <div> {/* 楽曲リスト */}
         {node.track_list.map((list) => (
