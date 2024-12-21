@@ -60,6 +60,18 @@ const archive_2024 = ({ data }) => {
         >
             <li>9月</li>
         </Link>
+        <Link
+            className={link_styles.month}
+            to="/discography/2024/10"
+        >
+            <li>10月</li>
+        </Link>
+        <Link
+            className={link_styles.month}
+            to="/discography/2024/11"
+        >
+            <li>11月</li>
+        </Link>
     </ul>
     </div> {/* monthsLink */}
     <h3 className={link_styles.pageMonth}>2月</h3>
