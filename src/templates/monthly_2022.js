@@ -10,7 +10,7 @@ const MonthlyPage = ({ data  }) => {
     return(
   <Layout>
         <h2>2022年アーカイブ</h2>
-    <div className="monthsLink">
+    <div className={link_styles.monthLink}>
     <ul>
         <Link
             className={link_styles.month}

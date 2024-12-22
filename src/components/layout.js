@@ -25,16 +25,19 @@ const Layout = ({ children }) => {
 
   return (
     <>
+      <div class="wrapper">
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
-      <div
+      <div className="mainWrapper"
         style={{
-          margin: `0 auto`,
+          // margin: `0 auto`,
           maxWidth: `var(--size-content)`,
           padding: `var(--size-gutter)`,
         }}
       >
         <main>{children}</main>
-        <Footer/>
+      </div>
+      <div className="spacer"></div>
+      <Footer/>
       </div>
     </>
   )

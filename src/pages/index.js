@@ -5,7 +5,6 @@ import { StaticImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import * as link_styles from "../components/link.module.css"
-import * as styles from "../components/index.module.css"
 
 const bubka_url = "https://www.amazon.co.jp/dp/B0DHV3FB9K"
 
@@ -15,7 +14,7 @@ const IndexPage = ({ data }) => {
     <p>TBSラジオ「アフター6ジャンクション2」の最新アイドルソング的時評コーナー『マブ論』で紹介された楽曲のアーカイブを目的としたファンサイトです</p>
     {data.allMaburonDataJson.edges.map(({ node }) => (
         <div key={node.id} className="json-data">
-          <h2 className={styles.heading2}>最新紹介楽曲【{node.month}月】</h2>
+          <h2 className="heading2">最新紹介楽曲【{node.month}月】</h2>
           <div className={link_styles.podcast_link}>  {/* podcast playlist bubka */}
             <iframe
             src={node.podcastUrl}

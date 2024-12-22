@@ -1,0 +1,64 @@
+/* ハンバーガーメニューのCSS */
+
+/* PC表示ではハンバーガーメニューを非表示 */
+.bm-burger-button {
+    display: none;
+  }
+
+/* モバイル表示時のみハンバーガーボタンを表示 */
+@media (max-width: 768px) {
+
+    /* ハンバーガーボタンの位置を右端に配置 */
+    .bm-burger-button {
+      position: fixed;
+      width: 36px;
+      height: 30px;
+      right: 20px; /* 右端に配置 */
+      top: 20px;  /* ヘッダー内に配置 */
+    }
+    /* ハンバーガーボタンの色 */
+    .bm-burger-bars {
+      background: #2b2b2b;
+    }
+
+    /* ハンバーガーメニューの背景 */
+    .bm-menu {
+      background: #2b2b2b;
+      padding-top: 45px;
+      padding-bottom:0px;
+      font-size: 1.15em;
+    }
+
+    /* メニューのアイテムのスタイル */
+    .bm-item-list a {
+      text-decoration: none;
+      color: #fff;
+      margin-bottom: 10px;
+      padding-left: 30px;
+    }
+    /* ホバー時の色 */
+    .bm-item-list a:hover {
+      background-color: #4f5464;
+    }
+    /* メニュー外のオーバーレイ背景 */
+    .bm-overlay {
+      background: rgba(0, 0, 0, 0.3) !important;
+    }
+
+    .bm-burger-button {
+      display: block;
+      /* background: #fff; */
+    }
+
+    /* 閉じるボタンのスタイル */
+  .bm-cross {
+    background: #fff; /* ボタンの色 */
+  }
+
+  /* 閉じるボタンのサイズを調整（任意） bm-cross-button */
+
+    /* デフォルトのナビゲーションを非表示 */
+    .globalnav {
+      display: none;
+    }
+  }

@@ -1,8 +1,19 @@
-import * as React from "react"
+import React, { useState } from "react"
 import { Link } from "gatsby"
+import { slide as Menu } from 'react-burger-menu';
 import * as styles from "./header.module.css"
+import "./burgerMenu.css"
 
-const Header = ({ siteTitle }) => (
+
+const Header = ({ siteTitle }) => {
+
+  const [isMenuOpen, setIsMenuOpen] = useState(false); // メニューの開閉状態を管理
+
+  const toggleMenu = () => {
+    setIsMenuOpen(!isMenuOpen);
+  };
+
+  return(
   <header>
     <div className={styles.title}>
       <Link
@@ -15,35 +26,52 @@ const Header = ({ siteTitle }) => (
     </Link>
     </div>
 
-    <nav>
-    <ul class="globalnav">
+    <nav className={styles.globalNav}>
+      <ul className={styles.navList}>
       <Link
       className={styles.navLink}
-        to="/latest"
+      to="/latest"
       >
         <li>最新</li>
       </Link>
       <Link
-        className={styles.navLink}
-        to="/discography"
-      >
-        <li>年別アーカイブ</li>
-      </Link>
-      <Link
-        className={styles.navLink}
-        to="/annualRanking"
+      className={styles.navLink}
+      to="/discography"
       >
         <li>年間ランキング</li>
       </Link>
       <Link
-        className={styles.navLink}
-        to="/about"
+      className={styles.navLink}
+      to="/annualRanking"
+      >
+        <li>最新</li>
+      </Link>
+      <Link
+      className={styles.navLink}
+      to="/about"
       >
         <li>このサイトについて</li>
       </Link>
-    </ul>
+      </ul>
     </nav>
+
+    <Menu right>
+        <a className="menu-item" href="/latest">
+          最新
+        </a>
+        <a className="menu-item" href="/discography">
+          年別アーカイブ
+        </a>
+        <a className="menu-item" href="/annualRanking">
+          年間ランキング
+        </a>
+        <a className="menu-item" href="/about">
+          このサイトについて
+        </a>
+      </Menu>
+
   </header>
-)
+  )
+}
 
 export default Header
