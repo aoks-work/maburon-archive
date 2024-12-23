@@ -13,6 +13,7 @@ module.exports = {
     description: `TBSラジオ「アフター6ジャンクション2」の最新アイドルソング的時評コーナー『マブ論』で紹介された楽曲のアーカイブを目的としたファンサイトです。`,
     author: `Aokirishima`,
     siteUrl: `https://eclectic-peony-68ec4c.netlify.app/`,
+    imageURL: `${__dirname}/src/images/maburon-icon.png`,
   },
   plugins: [
     `gatsby-plugin-image`,
