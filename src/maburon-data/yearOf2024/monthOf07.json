@@ -96,10 +96,16 @@
         {
             "number": 7,
             "track_name": "夏の恋人'24",
-            "artist": "可愛　唯",
+            "artist": "可愛 唯",
             "is_subscribe": "◯",
             "youtubeUrl": "",
-            "artist_link": []
+            "artist_link": [
+                {
+                    "artist_name": "可愛 唯",
+                    "twitter_url": "https://x.com/kawai_yui_",
+                    "instagram_url": "https://www.instagram.com/kawai__yuiii/"
+                }
+            ]
         },
         {
             "number": 8,
@@ -146,10 +152,16 @@
         {
             "number": 11,
             "track_name": "名前を呼んでくれたなら…♡",
-            "artist": "Yui Horie",
+            "artist": "堀江由衣",
             "is_subscribe": "◯",
             "youtubeUrl": "",
-            "artist_link": []
+            "artist_link": [
+                {
+                    "artist_name": "堀江由衣",
+                    "twitter_url": "https://x.com/horieyui_staff",
+                    "instagram_url": "https://www.instagram.com/yuihorie_official/"
+                }
+            ]
         },
         {
             "number": 12,

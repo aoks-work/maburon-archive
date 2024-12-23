@@ -60,6 +60,18 @@ const archive_2024 = ({ data }) => {
         >
             <li>9月</li>
         </Link>
+        <Link
+            className={link_styles.month}
+            to="/discography/2024/10"
+        >
+            <li>10月</li>
+        </Link>
+        <Link
+            className={link_styles.month}
+            to="/discography/2024/11"
+        >
+            <li>11月</li>
+        </Link>
     </ul>
     </div> {/* monthsLink */}
     <h3 className={link_styles.pageMonth}>2月</h3>
@@ -79,8 +91,10 @@ const archive_2024 = ({ data }) => {
           </div>
           <div className={link_styles.bubka_link}>
             {node.bubkaUrl !== "" &&
-            <a href={node.bubkaUrl} target="_blank" rel="noopener noreferrer">bubkaコラムパックテキスト</a>
-            }
+            <p>宇多丸さんのコラムが掲載している雑誌「BUBKA」では連載コラムのみをまとめたコラムパックがお得に販売されています。マブ論のコラムが読みたい方は
+              <a className={link_styles.column_link} href={node.bubkaUrl} target="_blank" rel="noopener noreferrer">こちら</a>
+            がオススメ！！</p>
+          }
           </div> {/* podcast playlist bubka */}
         <div> {/* 楽曲リスト */}
         

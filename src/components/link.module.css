@@ -1,26 +1,52 @@
-.podcast_link {
-    float: left;
-    margin-right: 20px;
+.podcast_link .playlist_link {
+    width: fit-content;
+}
+.podcast_link > iframe {
+    width: 360px;
+    height: 100px;
+    border-style: none;
+    max-width: 100%;
     
+  }
+
+  .playlist_link > iframe {
+    width: 360px;
+    height: 400px;
+    border-style: none;
+    max-width: 100%;
+  }
+
+  .playlist_link {
+    margin-bottom: 20px;
 }
 
-.bubka_link {
+  .bubka_link {
     margin-top: 20px;
-    margin-bottom: 40px;
-    text-align: center;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.column_link {
+    color: #FFF;
+    font-weight: bold;
+    /* 下線 */
+    text-decoration: underline;
+    text-underline-offset: -0.15em;
+    text-decoration-thickness: 0.3em;
+    text-decoration-color: #E84288;
+    text-decoration-skip-ink: none;
 }
 
 .trackInfo {
     text-align: center;
-    /*display: flex; */
-    font-size: 35px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 0px;
     
 }
 
 .tracksInfo {
-    border: solid 3px #E84288;
+    border: solid 2px #E84288;
     margin-bottom: 10px;
     
 }
@@ -39,34 +65,14 @@
 }
 
 .snsInfo {
-    
+        
     padding-top: 5px;
-    padding-left: 10px;
+    padding-left: 5px;
     padding-right: 10px;
     display: flex;
   }
 
-iframe {
-    width: 350px;
-    height: 400px;
-    border-style: none;
-  }
-
-.monthLink {
-    display: block;
-    position: relative;
-    text-align: center;
-}
-
-.month {
-    text-decoration: none;
-}
-
-.month li{
-    font-size: 18px;
-}
-
-.pageMonth {
+  .pageMonth {
     /* 下線 */
     text-decoration: underline;
     text-underline-offset: -0.15em;
@@ -75,6 +81,112 @@ iframe {
     text-decoration-skip-ink: none;
 }
 
-.playlist_link {
-    margin-bottom: 30px;
+.month {
+    text-decoration: none;
+}
+
+.monthLink > ul {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    list-style-type: none;
+    gap: 3px;
+    padding: 0px;
+    margin: 0;
+}
+
+.monthLink ul li {
+    /* width: calc(100% / 3 - 3px) !important; */
+    font-size: 20px;
+    color: #F7F7F7;
+}
+
+
+.month li{
+    font-size: 12px;
+}
+
+
+
+@media (min-width: 768px) {
+
+    .podcast_link {
+        float: left;
+        margin-right: 20px;
+    }
+    
+    .bubka_link {
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+    
+    .trackInfo {
+        text-align: center;
+        /*display: flex; */
+        font-size: 35px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+    .tracksInfo {
+        border: solid 3px #E84288;
+        margin-bottom: 10px;
+        
+    }
+    
+    .artistInfo {
+        font-size: 20px;
+        display: flex;
+        justify-content:center;
+        
+    }
+    
+    .artistName{
+        text-align: center;
+        display: flex;
+        
+    }
+    
+    .snsInfo {
+        
+        padding-top: 5px;
+        padding-left: 10px;
+        padding-right: 10px;
+        display: flex;
+      }
+    
+    .podcast_link > iframe {
+        width: 350px;
+        height: 400px;
+      }
+    
+    .playlist_link > iframe {
+        width: 350px;
+        height: 400px;
+      }
+
+      .playlist_link {
+        margin-bottom: 30px;
+    }
+    
+    .monthLink {
+        display: block;
+        position: relative;
+        text-align: center;
+    }
+
+    .monthLink ul li {
+        display: inline;       /* liタグをインライン表示にして横並びにする */
+        padding: 0 10px;
+        font-size: 18px;
+        color: #F7F7F7;
+        /* margin-right: 20px; */
+            /* 各liタグの間に余白を追加（必要に応じて調整） */
+    }
+    .month li{
+        font-size: 18px;
+    }
+
+
 }

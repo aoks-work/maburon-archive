@@ -5,7 +5,6 @@ import { StaticImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import * as link_styles from "../components/link.module.css"
-import * as index_styles from "../components/index.module.css"
 
 
 const LatestPage = ({ data }) => {
@@ -13,7 +12,7 @@ const LatestPage = ({ data }) => {
   <Layout>
     {data.allMaburonDataJson.edges.map(({ node }) => (
         <div key={node.id} className="json-data">
-          <h2 className={index_styles.heading2}>最新紹介楽曲【{node.month}月】</h2>
+          <h2 className="heading2">最新紹介楽曲【{node.month}月】</h2>
           <div className={link_styles.podcast_link}>  {/* podcast playlist bubka */}
             <iframe
             src={node.podcastUrl}
@@ -27,7 +26,11 @@ const LatestPage = ({ data }) => {
             ></iframe>
           </div>
           <div className={link_styles.bubka_link}>
-            <a href={node.bubkaUrl} target="_blank" rel="noopener noreferrer">bubkaコラムパックテキスト</a>
+          {node.bubkaUrl !== "" &&
+            <p>宇多丸さんのコラムが掲載している雑誌「BUBKA」では連載コラムのみをまとめたコラムパックがお得に販売されています。マブ論のコラムが読みたい方は
+              <a className={link_styles.column_link} href={node.bubkaUrl} target="_blank" rel="noopener noreferrer">こちら</a>
+            がオススメ！！</p>
+          }
           </div> {/* podcast playlist bubka */}
         <div> {/* 楽曲リスト */}
         {node.track_list.map((list) => (
@@ -73,7 +76,7 @@ const LatestPage = ({ data }) => {
         </div> {/* 楽曲リスト */}
       </div >  /*json-data */
     ))}
-  </Layout> 
+  </Layout>
   )
 }
 

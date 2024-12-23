@@ -21,10 +21,16 @@
         {
             "number": 2,
             "track_name": "ureshiino",
-            "artist": "BATTEN GIRLS",
+            "artist": "ばってん少女隊",
             "is_subscribe": "◯",
             "youtubeUrl": "",
-            "artist_link": []
+            "artist_link": [
+                {
+                    "artist_name": "ばってん少女隊",
+                    "twitter_url": "https://x.com/battengirls_jp",
+                    "instagram_url": "https://www.instagram.com/battengirls_jp/"
+                }
+            ]
         },
         {
             "number": 3,

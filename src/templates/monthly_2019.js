@@ -74,7 +74,7 @@ const MonthlyPage = ({ data  }) => {
         </Link>
         <Link
             className={link_styles.month}
-            to="/discography/2019/11"
+            to="/discography/2019/12"
         >
             <li>12月</li>
         </Link>
