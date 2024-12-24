@@ -38,13 +38,13 @@ const Header = ({ siteTitle }) => {
       className={styles.navLink}
       to="/discography"
       >
-        <li>年間ランキング</li>
+        <li>年別アーカイブ</li>
       </Link>
       <Link
       className={styles.navLink}
       to="/annualRanking"
       >
-        <li>最新</li>
+        <li>年間ランキング</li>
       </Link>
       <Link
       className={styles.navLink}
