@@ -72,6 +72,12 @@ const MonthlyPage = ({ data  }) => {
         >
             <li>11月</li>
         </Link>
+        <Link
+            className={link_styles.month}
+            to="/discography/2024/12"
+        >
+            <li>12月</li>
+        </Link>
     </ul>
     </div> {/* monthsLink */}
     <h3 className={link_styles.pageMonth}>{data.yearOf2024Json.month}月</h3>

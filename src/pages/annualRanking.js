@@ -6,6 +6,8 @@ import Seo from "../components/seo"
 import * as annual_styles from "../components/annual.module.css"
 
 const url_2022 = "https://open.spotify.com/embed/episode/6n2cIcZ7qiy49M1ObD9Mfd?si=fed3c73236464cdd?utm_source=generator"
+const url_2024_part2 = "https://open.spotify.com/embed/episode/5kzz8vuokUVI2CQ6GSqbDo?si=df2764fdf2bf4f64?utm_source=generator"
+const url_2024_part3 = "https://open.spotify.com/embed/episode/4ykEiNOVVNhpS8cfDZfTPT?si=b7974e8e1734498b?utm_source=generator"
 
 const RankingPage = ({ data }) => {
     return(
@@ -27,6 +29,20 @@ const RankingPage = ({ data }) => {
                     <iframe 
                        className={annual_styles.iframe}
                        src= {url_2022}
+                       title="podcast"
+                    ></iframe>
+                </div>
+                }
+                {node.year === "2024年" &&
+                <div>
+                    <iframe 
+                       className={annual_styles.iframe}
+                       src= {url_2024_part2}
+                       title="podcast"
+                    ></iframe>
+                    <iframe 
+                       className={annual_styles.iframe}
+                       src= {url_2024_part3}
                        title="podcast"
                     ></iframe>
                 </div>
