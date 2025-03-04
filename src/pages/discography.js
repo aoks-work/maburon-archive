@@ -9,6 +9,12 @@ const DiscographyPage = () => (
   <Layout>
     <h2>年別アーカイブ</h2>
     <Link
+        to="/discography/2025"
+        className={disco_styles.year}
+      >
+        2025年
+      </Link>
+    <Link
         to="/discography/2024"
         className={disco_styles.year}
       >
