@@ -14,6 +14,44 @@ exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions;
 
   // GraphQLクエリでJSONデータを取得
+  const result_2025 = await graphql(`
+    query {
+      allYearOf2025Json {
+    edges {
+      node {
+        month
+        playlistUrl
+        podcastUrl
+        bubkaUrl
+        track_list {
+          artist
+          artist_link {
+            artist_name
+            instagram_url
+            twitter_url
+          }
+          is_subscribe
+          number
+          track_name
+          youtubeUrl
+        }
+      }
+    }
+  }
+    }`)
+
+  //2025年
+  result_2025.data.allYearOf2025Json.edges.forEach(({ node }) => {
+    createPage({
+      path: `/discography/2025/${node.month}`,
+      component: path.resolve(`./src/templates/monthly_2025.js`),
+      context: {
+        month: node.month,
+      },
+    });
+  });
+
+  // GraphQLクエリでJSONデータを取得
   const result_2024 = await graphql(`
     query {
       allYearOf2024Json {
